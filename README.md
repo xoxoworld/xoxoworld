@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <!-- Dynamic capsule render for header banner -->
-  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=220&section=header&text=SUNG'S%20SPACE&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SUNG'S%20SPACE&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
   
   <br/>
   
