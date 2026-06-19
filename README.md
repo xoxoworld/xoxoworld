@@ -1,12 +1,17 @@
 <!-- Header Section -->
 <div align="center">
   <!-- Dynamic capsule render for header banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SUNG'S%20SPACE&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=xoxo._.world&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
   
   <br/>
   
   <!-- Typing SVG for subtitle -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hello,+I'm+a+Front-End+Developer;Designing+with+Figma,+Coding+with+Code;Creating+Interactive+Web+Experiences" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- Hits Counter -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoxoworld&count_bg=%232DD4BF&title_bg=%231E222A&title=VISITORS&edge_flat=true" alt="Hits" />
 </div>
 
 <br/>
@@ -58,6 +63,11 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
