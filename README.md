@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Hits Counter -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoxoworld&count_bg=%232DD4BF&title_bg=%231E222A&title=VISITORS&edge_flat=true" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=xoxoworld&color=2dd4bf&style=flat-square" alt="Hits" />
 </div>
 
 <br/>
