@@ -23,7 +23,7 @@ Figma를 이용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -64,7 +64,7 @@ Figma를 이용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 
 ## 📬 Connect with Me
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sung021125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://your-blog.com">
