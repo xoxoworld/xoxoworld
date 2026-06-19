@@ -1,73 +1,70 @@
-# ⚡ Hello, I'm a Developer! 👋
-
+<!-- Header Section -->
 <div align="center">
-  <!-- Typing SVG Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I+design+and+code+web+apps.;Figma+to+Code+Specialist;Constantly+learning+new+tech." alt="Typing SVG" />
+  <!-- Dynamic capsule render for header banner -->
+  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=220&section=header&text=SUNG'S%20SPACE&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+  
+  <br/>
+  
+  <!-- Typing SVG for subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hello,+I'm+a+Front-End+Developer;Designing+with+Figma,+Coding+with+Code;Creating+Interactive+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 👤 About Me
-안녕하세요! 기술과 디자인의 조화를 추구하는 프론트엔드 개발자입니다. 
-Figma를 이용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활용한 고품질 웹 개발까지 담당하고 있으며, Python을 통한 자동화 및 백엔드 스크립팅에도 관심이 많습니다.
+안녕하세요! 디자인과 개발의 경계를 허무는 **프론트엔드 개발자**입니다. 
+Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활용한 고품질 웹 구축까지 일관성 있고 아름다운 코드로 구현하는 것을 좋아합니다.
 
-- 🔭 현재 프론트엔드 최신 트렌드와 인터랙티브 웹 디자인에 몰입하고 있습니다.
-- 🎨 Figma 디자인 시안을 완벽하고 반응형인 코드로 변환하는 것에 자신 있습니다.
-- 💬 궁금한 점이 있으시다면 언제든 편하게 연락 주세요!
+- **Figma to Code** 🎨: 디자인 시안의 디테일을 유지하며 픽셀 단위로 정밀하고 반응형인 마크업을 완성합니다.
+- **Modern Styling** ⚡: SCSS와 Tailwind CSS를 활용하여 모듈화되고 확장 가능한 스타일 아키텍처를 지향합니다.
+- **Next Step** 🚀: JavaScript와 Python을 결합하여 웹 자동화 및 인터랙션의 깊이를 더해가고 있습니다.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Orbit
 
-### 🌐 Frontend
+### 🌐 Frontend & Styling
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-1e222a?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1e222a?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1e222a?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-1e222a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/jQuery-1e222a?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Tailwind--CSS-1e222a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 </p>
 
-### 🐍 Backend & Scripting
+### 🐍 Backend & Design Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### 🎨 Design & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Python-1e222a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Figma-1e222a?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Insights
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&theme=tokyonight&align=center" alt="xoxoworld's GitHub stats" height="150" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="165" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contact & Channels
 <p align="left">
   <a href="mailto:sung021125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Gmail-1e222a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
