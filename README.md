@@ -34,6 +34,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <img src="https://img.shields.io/badge/CSS3-1e222a?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1e222a?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-1e222a?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-1e222a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/jQuery-1e222a?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
   <img src="https://img.shields.io/badge/Tailwind--CSS-1e222a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 </p>
@@ -41,6 +42,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 ### 🐍 Backend & Design Tools
 <p>
   <img src="https://img.shields.io/badge/Python-1e222a?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-1e222a?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Figma-1e222a?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
