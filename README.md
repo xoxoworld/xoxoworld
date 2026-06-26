@@ -62,73 +62,93 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 
 ### 💻 Web Clones & Interactive Sites
 
-> ### **Toss Clone** 💸
-> Toss homepage clone focusing on responsive layout and clean user interfaces.
-> * **Stack:** `TypeScript` `CSS3` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/TOSS) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://toss-flax.vercel.app)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/TOSS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&theme=tokyonight&show_owner=false" alt="Toss Clone" />
+        </a>
+        <br/>
+        <a href="https://toss-flax.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+        </a>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/themuze.kr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&theme=tokyonight&show_owner=false" alt="The Muze" />
+        </a>
+        <br/>
+        <a href="https://themuze-kr.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+        </a>
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&theme=tokyonight&show_owner=false" alt="Portfolio" />
+        </a>
+        <br/>
+        <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+        </a>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/Starbucks">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&theme=tokyonight&show_owner=false" alt="Starbucks" />
+        </a>
+        <br/>
+        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/apple.com">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&theme=tokyonight&show_owner=false" alt="Apple.com" />
+        </a>
+        <br/>
+        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/xoxoworld/kakaobank_">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&theme=tokyonight&show_owner=false" alt="KakaoBank" />
+        </a>
+        <br/>
+        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-> ### **The Muze** 🎨
-> Elegant publication design for "The Muze" with polished typography and styling.
-> * **Stack:** `HTML5` `CSS3` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/themuze.kr) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://themuze-kr.vercel.app)
+<br/>
 
-> ### **Apple Clone** 🍎
-> Pixel-perfect markup copy of Apple's global homepage layout.
-> * **Stack:** `HTML5` `CSS3` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/apple.com)
+<details>
+  <summary>🎓 <b>ESTsoft Frontend Bootcamp (FE 13) Projects</b></summary>
+  <br/>
+  
+  * **2nd Team Project (Private)** &bull; `SCSS` `JavaScript` `HTML5` &bull; [Repository 🔗](https://github.com/xoxoworld/-EST_fe_13_2st_project_private)
+  * **1st Team Project (Private)** &bull; `HTML5` `CSS3` `JavaScript` &bull; [Repository 🔗](https://github.com/xoxoworld/EST_fe_13_1st_project_private)
+  * **EST Shop** &bull; `JavaScript` `CSS3` `HTML5` &bull; [Repository 🔗](https://github.com/xoxoworld/EST_shop)
+</details>
 
-> ### **Starbucks Clone** ☕
-> Starbucks Korea landing page clone with responsive design using SCSS variables.
-> * **Stack:** `HTML5` `SCSS` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/Starbucks)
+<details>
+  <summary>🧪 <b>React & API Labs Archive</b></summary>
+  <br/>
 
-> ### **KakaoBank Clone** 🏦
-> Recreating KakaoBank's neat website layout and interactive assets.
-> * **Stack:** `HTML5` `SCSS` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/kakaobank_)
-
----
-
-### 🎓 ESTsoft Frontend Bootcamp (FE 13)
-
-> ### **2nd Team Project** 👥 *(Private)*
-> Collaborative web service development practicing team git workflow and modular styling.
-> * **Stack:** `SCSS` `JavaScript` `HTML5`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/-EST_fe_13_2st_project_private)
-
-> ### **1st Team Project** 👥 *(Private)*
-> Collaborative frontend baseline project practicing semantic HTML markup.
-> * **Stack:** `HTML5` `CSS3` `JavaScript`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/EST_fe_13_1st_project_private)
-
-> ### **EST Shop** 🛒
-> JavaScript-driven interactive online shopping web application.
-> * **Stack:** `JavaScript` `CSS3` `HTML5`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/EST_shop)
-
----
-
-### 🧪 React & API Labs
-
-> ### **Portfolio Website** 💼
-> Personal portfolio integrated with database using Next.js & Supabase.
-> * **Stack:** `Next.js` `Supabase` `JavaScript` `CSS3`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/portfolio-nextjs_supabase) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://portfolio-nextjs-supabase-tau.vercel.app)
-
-> ### **React Basic Mission 5** ⚛️
-> React basic practice project focused on structured state management.
-> * **Stack:** `React` `JavaScript` `CSS3`
-> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/React-Basic-Mission---5) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://react-basic-mission-5.vercel.app)
-
-> ### **React Basic Mission 3 & 2** ⚛️
-> Exploring component patterns, layout styling, and react hooks.
-> * **Stack:** `React` `JavaScript` `CSS3`
-> * **Links:** [Mission 3 Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---3) &nbsp;&bull;&nbsp; [Mission 2 Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---2) &nbsp;&bull;&nbsp; [Mission 3 Demo 🚀](https://react-basic-mission-3.vercel.app) &nbsp;&bull;&nbsp; [Mission 2 Demo 🚀](https://react-basic-mission-2.vercel.app)
-
-> ### **API Dashboards (Weather & Maps)** 🌐
-> Data dashboards integrating OpenWeatherMap and Kakao/Google Maps APIs.
-> * **Stack:** `HTML5` `JavaScript` `CSS3`
-> * **Links:** [Weather Repo 🔗](https://github.com/xoxoworld/openweathermap) &nbsp;&bull;&nbsp; [Map Repo 🔗](https://github.com/xoxoworld/map_api)
+  * **React Mission 5** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---5) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-5.vercel.app)
+  * **React Mission 3** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---3) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-3.vercel.app)
+  * **React Mission 2** &bull; `React` `CSS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---2) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-2.vercel.app)
+  * **React Mission 1** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission-1)
+  * **OpenWeatherMap Dashboard** &bull; `HTML5` `CSS3` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/openweathermap)
+  * **Kakao/Google Map API Dashboard** &bull; `HTML5` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/map_api)
+</details>
 
 ---
 
