@@ -69,7 +69,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/TOSS">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&theme=tokyonight&show_owner=false" alt="Toss Clone" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Toss Clone" />
           </a>
           <br/>
           <a href="https://toss-flax.vercel.app">
@@ -79,7 +79,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/themuze.kr">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&theme=tokyonight&show_owner=false" alt="The Muze" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="The Muze" />
           </a>
           <br/>
           <a href="https://themuze-kr.vercel.app">
@@ -91,7 +91,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&theme=tokyonight&show_owner=false" alt="Portfolio" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Portfolio" />
           </a>
           <br/>
           <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
@@ -101,7 +101,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/Starbucks">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&theme=tokyonight&show_owner=false" alt="Starbucks" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Starbucks" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
@@ -111,7 +111,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/apple.com">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&theme=tokyonight&show_owner=false" alt="Apple.com" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Apple.com" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
@@ -119,7 +119,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/kakaobank_">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&theme=tokyonight&show_owner=false" alt="KakaoBank" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="KakaoBank" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
@@ -139,13 +139,13 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/-EST_fe_13_2st_project_private">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-EST_fe_13_2st_project_private&theme=tokyonight&show_owner=false" alt="2nd Team Project" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-EST_fe_13_2st_project_private&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="2nd Team Project" />
           </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_1st_project_private">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project_private&theme=tokyonight&show_owner=false" alt="1st Team Project" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project_private&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="1st Team Project" />
           </a>
           <br/><br/>
         </td>
@@ -153,7 +153,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_shop">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&theme=tokyonight&show_owner=false" alt="EST Shop" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST Shop" />
           </a>
           <br/><br/>
         </td>
@@ -174,7 +174,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---5">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&theme=tokyonight&show_owner=false" alt="React Mission 5" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React Mission 5" />
           </a>
           <br/>
           <a href="https://react-basic-mission-5.vercel.app">
@@ -184,7 +184,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---3">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&theme=tokyonight&show_owner=false" alt="React Mission 3" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React Mission 3" />
           </a>
           <br/>
           <a href="https://react-basic-mission-3.vercel.app">
@@ -196,7 +196,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---2">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&theme=tokyonight&show_owner=false" alt="React Mission 2" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React Mission 2" />
           </a>
           <br/>
           <a href="https://react-basic-mission-2.vercel.app">
@@ -206,7 +206,7 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission-1">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&theme=tokyonight&show_owner=false" alt="React Mission 1" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React Mission 1" />
           </a>
           <br/><br/>
         </td>
@@ -214,13 +214,13 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/openweathermap">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&theme=tokyonight&show_owner=false" alt="OpenWeatherMap" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="OpenWeatherMap" />
           </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/map_api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&theme=tokyonight&show_owner=false" alt="Map API" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Map API" />
           </a>
           <br/><br/>
         </td>
@@ -237,22 +237,22 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&currStreakLabel=2dd4bf&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="Streak Stats" />
 
   <br/><br/>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
