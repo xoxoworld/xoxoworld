@@ -60,74 +60,75 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 
 ## 🚀 Projects & Showcases
 
-### 💻 Web Clones & Interactive Sites
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/TOSS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&theme=tokyonight&show_owner=false" alt="Toss Clone" />
-        </a>
-        <br/>
-        <a href="https://toss-flax.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-        </a>
-        <br/><br/>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/themuze.kr">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&theme=tokyonight&show_owner=false" alt="The Muze" />
-        </a>
-        <br/>
-        <a href="https://themuze-kr.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-        </a>
-        <br/><br/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&theme=tokyonight&show_owner=false" alt="Portfolio" />
-        </a>
-        <br/>
-        <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-        </a>
-        <br/><br/>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/Starbucks">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&theme=tokyonight&show_owner=false" alt="Starbucks" />
-        </a>
-        <br/>
-        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
-        <br/><br/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/apple.com">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&theme=tokyonight&show_owner=false" alt="Apple.com" />
-        </a>
-        <br/>
-        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
-        <br/><br/>
-      </td>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/xoxoworld/kakaobank_">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&theme=tokyonight&show_owner=false" alt="KakaoBank" />
-        </a>
-        <br/>
-        <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
+<details>
+  <summary>💻 <b>Web Clones & Interactive Sites</b></summary>
+  <br/>
+  
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/TOSS">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&theme=tokyonight&show_owner=false" alt="Toss Clone" />
+          </a>
+          <br/>
+          <a href="https://toss-flax.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/themuze.kr">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&theme=tokyonight&show_owner=false" alt="The Muze" />
+          </a>
+          <br/>
+          <a href="https://themuze-kr.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&theme=tokyonight&show_owner=false" alt="Portfolio" />
+          </a>
+          <br/>
+          <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/Starbucks">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&theme=tokyonight&show_owner=false" alt="Starbucks" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/apple.com">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&theme=tokyonight&show_owner=false" alt="Apple.com" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/kakaobank_">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&theme=tokyonight&show_owner=false" alt="KakaoBank" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+          <br/><br/>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <details>
   <summary>🎓 <b>ESTsoft Frontend Bootcamp (FE 13) Projects</b></summary>
