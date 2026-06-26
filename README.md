@@ -61,30 +61,74 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 ## 🚀 Projects & Showcases
 
 ### 💻 Web Clones & Interactive Sites
-| Project | Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Toss Clone** | TypeScript, CSS, JS | Toss homepage clone and responsive markup | [Repo 🔗](https://github.com/xoxoworld/TOSS) / [Demo 🚀](https://toss-flax.vercel.app) |
-| **The Muze** | HTML, CSS, JS | Web publishing project for "The Muze" | [Repo 🔗](https://github.com/xoxoworld/themuze.kr) / [Demo 🚀](https://themuze-kr.vercel.app) |
-| **Apple Clone** | HTML, CSS, JS | Pixel-perfect clone of Apple.com | [Repo 🔗](https://github.com/xoxoworld/apple.com) |
-| **Starbucks Clone** | HTML, SCSS, JS | Starbucks Korea landing page clone with responsive SCSS | [Repo 🔗](https://github.com/xoxoworld/Starbucks) |
-| **KakaoBank Clone** | HTML, SCSS, JS | KakaoBank main page layout and interactive styling | [Repo 🔗](https://github.com/xoxoworld/kakaobank_) |
+
+> ### **Toss Clone** 💸
+> Toss homepage clone focusing on responsive layout and clean user interfaces.
+> * **Stack:** `TypeScript` `CSS3` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/TOSS) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://toss-flax.vercel.app)
+
+> ### **The Muze** 🎨
+> Elegant publication design for "The Muze" with polished typography and styling.
+> * **Stack:** `HTML5` `CSS3` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/themuze.kr) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://themuze-kr.vercel.app)
+
+> ### **Apple Clone** 🍎
+> Pixel-perfect markup copy of Apple's global homepage layout.
+> * **Stack:** `HTML5` `CSS3` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/apple.com)
+
+> ### **Starbucks Clone** ☕
+> Starbucks Korea landing page clone with responsive design using SCSS variables.
+> * **Stack:** `HTML5` `SCSS` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/Starbucks)
+
+> ### **KakaoBank Clone** 🏦
+> Recreating KakaoBank's neat website layout and interactive assets.
+> * **Stack:** `HTML5` `SCSS` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/kakaobank_)
+
+---
 
 ### 🎓 ESTsoft Frontend Bootcamp (FE 13)
-| Project | Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **2nd Project (Private)** | SCSS, JS, HTML | ESTsoft Frontend Bootcamp 2nd Team Project | [Repo 🔗](https://github.com/xoxoworld/-EST_fe_13_2st_project_private) |
-| **1st Project (Private)** | HTML, CSS, JS | ESTsoft Frontend Bootcamp 1st Team Project | [Repo 🔗](https://github.com/xoxoworld/EST_fe_13_1st_project_private) |
-| **EST Shop** | JS, CSS, HTML | Interactive shopping site project | [Repo 🔗](https://github.com/xoxoworld/EST_shop) |
+
+> ### **2nd Team Project** 👥 *(Private)*
+> Collaborative web service development practicing team git workflow and modular styling.
+> * **Stack:** `SCSS` `JavaScript` `HTML5`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/-EST_fe_13_2st_project_private)
+
+> ### **1st Team Project** 👥 *(Private)*
+> Collaborative frontend baseline project practicing semantic HTML markup.
+> * **Stack:** `HTML5` `CSS3` `JavaScript`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/EST_fe_13_1st_project_private)
+
+> ### **EST Shop** 🛒
+> JavaScript-driven interactive online shopping web application.
+> * **Stack:** `JavaScript` `CSS3` `HTML5`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/EST_shop)
+
+---
 
 ### 🧪 React & API Labs
-| Project | Stack | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **React Mission 5** | React, JS, CSS | React basic mission focusing on state management | [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---5) / [Demo 🚀](https://react-basic-mission-5.vercel.app) |
-| **React Mission 3** | React, JS, CSS | React basic mission exploring components | [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---3) / [Demo 🚀](https://react-basic-mission-3.vercel.app) |
-| **React Mission 2** | React, CSS, JS | React styling and layout mission | [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---2) / [Demo 🚀](https://react-basic-mission-2.vercel.app) |
-| **Portfolio Next.js & Supabase** | Next.js, Supabase, CSS | Web portfolio using Next.js & Supabase | [Repo 🔗](https://github.com/xoxoworld/portfolio-nextjs_supabase) / [Demo 🚀](https://portfolio-nextjs-supabase-tau.vercel.app) |
-| **OpenWeatherMap** | HTML, CSS, JS | Weather info dashboard using OpenWeatherMap API | [Repo 🔗](https://github.com/xoxoworld/openweathermap) |
-| **Map API** | HTML, JS, CSS | Location search dashboard using Kakao/Google Map API | [Repo 🔗](https://github.com/xoxoworld/map_api) |
+
+> ### **Portfolio Website** 💼
+> Personal portfolio integrated with database using Next.js & Supabase.
+> * **Stack:** `Next.js` `Supabase` `JavaScript` `CSS3`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/portfolio-nextjs_supabase) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://portfolio-nextjs-supabase-tau.vercel.app)
+
+> ### **React Basic Mission 5** ⚛️
+> React basic practice project focused on structured state management.
+> * **Stack:** `React` `JavaScript` `CSS3`
+> * **Links:** [Code Repository 🔗](https://github.com/xoxoworld/React-Basic-Mission---5) &nbsp;&bull;&nbsp; [Live Demo 🚀](https://react-basic-mission-5.vercel.app)
+
+> ### **React Basic Mission 3 & 2** ⚛️
+> Exploring component patterns, layout styling, and react hooks.
+> * **Stack:** `React` `JavaScript` `CSS3`
+> * **Links:** [Mission 3 Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---3) &nbsp;&bull;&nbsp; [Mission 2 Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---2) &nbsp;&bull;&nbsp; [Mission 3 Demo 🚀](https://react-basic-mission-3.vercel.app) &nbsp;&bull;&nbsp; [Mission 2 Demo 🚀](https://react-basic-mission-2.vercel.app)
+
+> ### **API Dashboards (Weather & Maps)** 🌐
+> Data dashboards integrating OpenWeatherMap and Kakao/Google Maps APIs.
+> * **Stack:** `HTML5` `JavaScript` `CSS3`
+> * **Links:** [Weather Repo 🔗](https://github.com/xoxoworld/openweathermap) &nbsp;&bull;&nbsp; [Map Repo 🔗](https://github.com/xoxoworld/map_api)
 
 ---
 
