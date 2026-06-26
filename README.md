@@ -133,21 +133,99 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <summary>🎓 <b>ESTsoft Frontend Bootcamp (FE 13) Projects</b></summary>
   <br/>
   
-  * **2nd Team Project (Private)** &bull; `SCSS` `JavaScript` `HTML5` &bull; [Repository 🔗](https://github.com/xoxoworld/-EST_fe_13_2st_project_private)
-  * **1st Team Project (Private)** &bull; `HTML5` `CSS3` `JavaScript` &bull; [Repository 🔗](https://github.com/xoxoworld/EST_fe_13_1st_project_private)
-  * **EST Shop** &bull; `JavaScript` `CSS3` `HTML5` &bull; [Repository 🔗](https://github.com/xoxoworld/EST_shop)
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/-EST_fe_13_2st_project_private">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-EST_fe_13_2st_project_private&theme=tokyonight&show_owner=false" alt="2nd Team Project" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/EST_fe_13_1st_project_private">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project_private&theme=tokyonight&show_owner=false" alt="1st Team Project" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/EST_shop">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&theme=tokyonight&show_owner=false" alt="EST Shop" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <!-- Empty for grid layout balance -->
+        </td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 <details>
   <summary>🧪 <b>React & API Labs Archive</b></summary>
   <br/>
 
-  * **React Mission 5** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---5) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-5.vercel.app)
-  * **React Mission 3** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---3) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-3.vercel.app)
-  * **React Mission 2** &bull; `React` `CSS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission---2) &nbsp;|&nbsp; [Demo 🚀](https://react-basic-mission-2.vercel.app)
-  * **React Mission 1** &bull; `React` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/React-Basic-Mission-1)
-  * **OpenWeatherMap Dashboard** &bull; `HTML5` `CSS3` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/openweathermap)
-  * **Kakao/Google Map API Dashboard** &bull; `HTML5` `JS` &bull; [Repo 🔗](https://github.com/xoxoworld/map_api)
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/React-Basic-Mission---5">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&theme=tokyonight&show_owner=false" alt="React Mission 5" />
+          </a>
+          <br/>
+          <a href="https://react-basic-mission-5.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/React-Basic-Mission---3">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&theme=tokyonight&show_owner=false" alt="React Mission 3" />
+          </a>
+          <br/>
+          <a href="https://react-basic-mission-3.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/React-Basic-Mission---2">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&theme=tokyonight&show_owner=false" alt="React Mission 2" />
+          </a>
+          <br/>
+          <a href="https://react-basic-mission-2.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/React-Basic-Mission-1">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&theme=tokyonight&show_owner=false" alt="React Mission 1" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/openweathermap">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&theme=tokyonight&show_owner=false" alt="OpenWeatherMap" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/map_api">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&theme=tokyonight&show_owner=false" alt="Map API" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 ---
