@@ -374,6 +374,21 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 
 ## 📊 GitHub Insights
 
+### 📈 Static Profile Stats
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Total_Repositories-29-2dd4bf?style=flat-square" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Total_Stars-9-2dd4bf?style=flat-square" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total_Forks-1-2dd4bf?style=flat-square" alt="Total Forks" />
+</p>
+
+| Metric | Details |
+| :--- | :--- |
+| **Total Public Repositories** | 29 repos |
+| **Total Stars Received** | 9 ⭐ |
+| **Total Forks** | 1 🍴 |
+| **Language Distribution** | HTML (13), JavaScript (5), SCSS (3), CSS (3), TypeScript (1) |
+
 <div align="center">
   <table border="0">
     <tr>
@@ -395,6 +410,8 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
+
+---
 
 ---
 
