@@ -377,8 +377,28 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Stats" height="165" />
+            <td width="50%" valign="top">
+        <div style="background-color: #1a1b26; border: 1px solid #2dd4bf; border-radius: 6px; padding: 12px; height: 139px; font-family: 'Outfit', -apple-system, sans-serif; color: #a9b1d6; font-size: 14px;">
+          <h3 style="color: #2dd4bf; margin: 0 0 10px 0; font-size: 16px; font-weight: 600;">📊 Profile Stats</h3>
+          <table border="0" width="100%" style="border-collapse: collapse; line-height: 1.8;">
+            <tr>
+              <td style="color: #2dd4bf; font-weight: bold; padding: 2px 0;">📁 Total Repositories:</td>
+              <td align="right" style="font-weight: bold; color: #ffffff; padding: 2px 0;">29</td>
+            </tr>
+            <tr>
+              <td style="color: #2dd4bf; font-weight: bold; padding: 2px 0;">⭐ Total Stars:</td>
+              <td align="right" style="font-weight: bold; color: #ffffff; padding: 2px 0;">9</td>
+            </tr>
+            <tr>
+              <td style="color: #2dd4bf; font-weight: bold; padding: 2px 0;">🍴 Total Forks:</td>
+              <td align="right" style="font-weight: bold; color: #ffffff; padding: 2px 0;">1</td>
+            </tr>
+            <tr>
+              <td style="color: #2dd4bf; font-weight: bold; padding: 2px 0;">💻 Primary Stack:</td>
+              <td align="right" style="font-size: 12px; color: #ffffff; padding: 2px 0;">HTML / JS / CSS</td>
+            </tr>
+          </table>
+        </div>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
