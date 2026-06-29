@@ -1,0 +1,41 @@
+name: Update Profile Readme
+
+on:
+  schedule:
+    # Runs every 6 hours (at minute 0 of hours 0, 6, 12, 18)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+  repository_dispatch:
+    types: [update_readme] # Allows triggering from other repos
+
+permissions:
+  contents: write # Need write permission to push changes to README.md
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update_readme.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "docs: Update recent activity [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
