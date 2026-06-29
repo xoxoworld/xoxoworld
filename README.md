@@ -453,10 +453,10 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&show_icons=true&count_private=true&include_all_commits=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Stats" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&custom_title=%EC%9D%B4%EC%84%B1%ED%9D%AC's+GitHub+Stats&show_icons=true&count_private=true&include_all_commits=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&custom_title=%EC%9D%B4%EC%84%B1%ED%9D%AC's+Most+Used+Languages&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
