@@ -60,6 +60,14 @@
   <img src="https://img.shields.io/badge/npm-1e222a?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
   <img src="https://img.shields.io/badge/ESLint-1e222a?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-1e222a?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Gemini-1e222a?style=flat-square&logo=googlegemini&logoColor=8E75C2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-1e222a?style=flat-square&logo=claude&logoColor=D97756" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-1e222a?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-1e222a?style=flat-square&logo=github&logoColor=8957E5" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-1e222a?style=flat-square&logo=openai&logoColor=10A37F" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/v0%20(Vercel)-1e222a?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="v0" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1e222a?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-1e222a?style=flat-square&logo=google&logoColor=4285F4" alt="Google Stitch" />
 </p>
 
 ---
