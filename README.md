@@ -39,6 +39,9 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
   <img src="https://img.shields.io/badge/Next.js-1e222a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/jQuery-1e222a?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
   <img src="https://img.shields.io/badge/Tailwind--CSS-1e222a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/styled--components-1e222a?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
+  <img src="https://img.shields.io/badge/daisyUI-1e222a?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/Axios-1e222a?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
 </p>
 
 ### 🗄️ Backend, Database & Cloud
@@ -99,23 +102,55 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/kakaobank_">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
+          <a href="https://github.com/xoxoworld/-blue-ocean">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-blue-ocean&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="-blue-ocean" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+          <a href="https://blue-ocean-eight.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/starfield202512-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=starfield202512-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="starfield202512-" />
+          <a href="https://github.com/xoxoworld/spotify_new">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=spotify_new&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="spotify_new" />
+          </a>
+          <br/>
+          <a href="https://xoxoworld.github.io/spotify_new">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_tablet_menu-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_tablet_menu-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_tablet_menu-" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Premium Kiosk Table Order</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/starfield">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=starfield&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="starfield" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Starfield Hanam Clone</span>
           <br/><br/>
         </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/SBS_ANSAN-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=SBS_ANSAN-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="SBS_ANSAN-" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">SBS Academy Ansan Clone</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/-kpop-console">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-kpop-console&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="-kpop-console" />
@@ -124,8 +159,6 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Futuristic Media Console</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/slowpage">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
@@ -134,9 +167,19 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Book Curation Service</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/Starbucks">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Starbucks" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/kakaobank_">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
@@ -190,15 +233,22 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/news-app">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=news-app&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="news-app" />
+          </a>
+          <br/>
+          <a href="https://news-app-est13project.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_shop">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_shop" />
           </a>
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Shopping Cart Practice</span>
           <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <!-- Empty for grid layout balance -->
         </td>
       </tr>
     </table>
@@ -281,6 +331,66 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
     <table border="0">
       <tr>
         <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio-nextjs_supabase" />
+          </a>
+          <br/>
+          <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_portfolio_ex">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
+          </a>
+          <br/>
+          <a href="https://xoxoworld.github.io/web_portfolio_ex">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/portfolio_ex">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio_ex" />
+          </a>
+          <br/>
+          <a href="https://portfolio-ex-two.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_planner-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_planner-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_planner-" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Naver-Inspired Planner</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_animation-">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_animation-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_animation-" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">Interactive Animation Guide</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/orange">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=orange&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="orange" />
+          </a>
+          <br/>
+          <span style="opacity: 0.5; font-size: 12px; color: #888;">SCSS Workspace</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/1st-project-ex">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=1st-project-ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="1st-project-ex" />
           </a>
@@ -331,41 +441,6 @@ Figma를 사용한 UI/UX 설계부터 HTML, CSS, JavaScript, Tailwind CSS를 활
           <br/>
           <span style="opacity: 0.5; font-size: 12px; color: #888;">Git Init Check</span>
           <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/orange-2511">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=orange-2511&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="orange-2511" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">SCSS Workspace</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio-nextjs_supabase" />
-          </a>
-          <br/>
-          <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/portfolio_ex">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio_ex" />
-          </a>
-          <br/>
-          <a href="https://portfolio-ex-two.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <!-- Empty for grid layout balance -->
         </td>
       </tr>
     </table>
