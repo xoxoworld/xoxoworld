@@ -39,6 +39,9 @@
   <img src="https://img.shields.io/badge/styled--components-1e222a?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
   <img src="https://img.shields.io/badge/daisyUI-1e222a?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
   <img src="https://img.shields.io/badge/Axios-1e222a?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
+  <img src="https://img.shields.io/badge/Vite-1e222a?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Bootstrap-1e222a?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Swiper-1e222a?style=flat-square&logo=swiper&logoColor=6332F6" alt="Swiper" />
 </p>
 
 ### 🗄️ Backend, Database & Cloud
@@ -54,6 +57,9 @@
   <img src="https://img.shields.io/badge/Figma-1e222a?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-1e222a?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1e222a?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-1e222a?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
+  <img src="https://img.shields.io/badge/ESLint-1e222a?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-1e222a?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
 </p>
 
 ---
@@ -377,7 +383,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&custom_title=GitHub%20Stats&show_icons=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&cache_seconds=600" alt="Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=12&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
