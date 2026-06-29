@@ -67,20 +67,24 @@
     <table border="0">
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/TOSS">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=TOSS&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="TOSS" />
-          </a>
+          <img src="https://img.shields.io/badge/TOSS-Next.js%20%2F%20TS-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="TOSS" />
           <br/>
+          <span style="font-size: 12px; color: #888;">토스 메인 & 금융 상품 소개 페이지 클론 코딩</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
           <a href="https://toss-flax.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/themuze.kr">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=themuze.kr&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="themuze.kr" />
-          </a>
+          <img src="https://img.shields.io/badge/themuze.kr-JavaScript%20%2F%20HTML-1a1b26?style=for-the-badge&logo=javascript&logoColor=2dd4bf" alt="themuze.kr" />
           <br/>
+          <span style="font-size: 12px; color: #888;">더뮤즈엔터테인먼트 공식 웹사이트 고해상도 클론 코딩</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
           <a href="https://themuze-kr.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
@@ -89,97 +93,29 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/apple.com">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=apple.com&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="apple.com" />
-          </a>
+          <img src="https://img.shields.io/badge/blue--ocean-Next.js%20%2F%20TS%20%2F%20Tailwind-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="blue-ocean" />
           <br/>
-          <a href="https://apple-com-seven.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
+          <span style="font-size: 12px; color: #888;">비프의 푸른 바다 모험 - AI 인터랙티브 동화책</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/-blue-ocean">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-blue-ocean&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="-blue-ocean" />
-          </a>
-          <br/>
           <a href="https://blue-ocean-eight.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/spotify_new">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=spotify_new&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="spotify_new" />
+          <a href="https://github.com/xoxoworld/acme">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=acme&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="acme" />
           </a>
           <br/>
-          <a href="https://xoxoworld.github.io/spotify_new">
+          <span style="font-size: 12px; color: #888;">Static Landing Page</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/acme/">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_tablet_menu-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_tablet_menu-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_tablet_menu-" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Premium Kiosk Table Order</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/starfield">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=starfield&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="starfield" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Starfield Hanam Clone</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/SBS_ANSAN-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=SBS_ANSAN-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="SBS_ANSAN-" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">SBS Academy Ansan Clone</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/-kpop-console">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-kpop-console&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="-kpop-console" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Futuristic Media Console</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/slowpage">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Book Curation Service</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/Starbucks">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=Starbucks&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Starbucks" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/kakaobank_">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static markup only</span>
           <br/><br/>
         </td>
       </tr>
@@ -194,29 +130,17 @@
     <table border="0">
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/-EST_fe_13_2st_project_private">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=-EST_fe_13_2st_project_private&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="-EST_fe_13_2st_project_private" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">2nd Team Project - ROUNZ</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_2st_project">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_2st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_2st_project" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Public Mirror / SCSS</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/EST_fe_13_1st_project_private">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project_private&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_1st_project_private" />
-          </a>
+          <span style="font-size: 12px; color: #888;">2nd Team Project - ROUNZ (Public Mirror)</span>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">1st Team Project - EST CAMP</span>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/EST_fe_13_2st_project/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -224,16 +148,24 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_1st_project" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Public Mirror / HTML</span>
+          <span style="font-size: 12px; color: #888;">1st Team Project - EST CAMP (Public Mirror)</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/EST_fe_13_1st_project/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/news-app">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=news-app&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="news-app" />
-          </a>
+          <img src="https://img.shields.io/badge/news--app-Next.js%20%2F%20JS%20%2F%20Tailwind-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="news-app" />
           <br/>
+          <span style="font-size: 12px; color: #888;">Bootcamp News App Project</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
           <a href="https://news-app-est13project.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
@@ -244,7 +176,13 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_shop" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Shopping Cart Practice</span>
+          <span style="font-size: 12px; color: #888;">Shopping Cart Practice</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/EST_shop/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
       </tr>
@@ -263,6 +201,10 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---5" />
           </a>
           <br/>
+          <span style="font-size: 12px; color: #888;">React Basic Mission 5</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
           <a href="https://react-basic-mission-5.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
@@ -273,6 +215,10 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---3" />
           </a>
           <br/>
+          <span style="font-size: 12px; color: #888;">React Basic Mission 3</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
           <a href="https://react-basic-mission-3.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
@@ -285,6 +231,10 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---2" />
           </a>
           <br/>
+          <span style="font-size: 12px; color: #888;">React Basic Mission 2</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
           <a href="https://react-basic-mission-2.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
@@ -295,25 +245,39 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission-1" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">React Template Mission</span>
+          <span style="font-size: 12px; color: #888;">React Template Mission</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/React-Basic-Mission-1/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/openweathermap">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="openweathermap" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Weather API Practice</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/map_api">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="map_api" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Kakao Map API Practice</span>
+          <span style="font-size: 12px; color: #888;">Kakao Map API Practice</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/map_api/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/openweathermap">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="openweathermap" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">Weather API Practice</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
       </tr>
@@ -332,57 +296,27 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio-nextjs_supabase" />
           </a>
           <br/>
+          <span style="font-size: 12px; color: #888;">Next.js & Supabase Portfolio</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
           <a href="https://portfolio-nextjs-supabase-tau.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_portfolio_ex">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
-          </a>
-          <br/>
-          <a href="https://xoxoworld.github.io/web_portfolio_ex">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/portfolio_ex">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio_ex" />
           </a>
           <br/>
+          <span style="font-size: 12px; color: #888;">Vite React Portfolio</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
           <a href="https://portfolio-ex-two.vercel.app">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_planner-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_planner-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_planner-" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Naver-Inspired Planner</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_animation-">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_animation-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_animation-" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Interactive Animation Guide</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/orange">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=orange&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="orange" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">SCSS Workspace</span>
           <br/><br/>
         </td>
       </tr>
@@ -392,7 +326,9 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=1st-project-ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="1st-project-ex" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">HTML/CSS Practice</span>
+          <span style="font-size: 12px; color: #888;">HTML/CSS Practice</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -400,35 +336,21 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=20260309&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="20260309" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Daily Coding Archive</span>
+          <span style="font-size: 12px; color: #888;">Daily Coding Archive</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
       </tr>
       <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/acme">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=acme&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="acme" />
-          </a>
-          <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Static Landing Page</span>
-          <br/><br/>
-        </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/git_ex">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=git_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="git_ex" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Git Learning Workflow</span>
-          <br/><br/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/happiert">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=happiert&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="happiert" />
-          </a>
+          <span style="font-size: 12px; color: #888;">Git Learning Workflow</span>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">UI Sandbox</span>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -436,7 +358,9 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=hello_git&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="hello_git" />
           </a>
           <br/>
-          <span style="opacity: 0.5; font-size: 12px; color: #888;">Git Init Check</span>
+          <span style="font-size: 12px; color: #888;">Git Init Check</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
       </tr>
