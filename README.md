@@ -1,4 +1,4 @@
-<!-- Header Section -->
+﻿<!-- Header Section -->
 <div align="center">
   <!-- Dynamic capsule render for header banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=xoxo._.world&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
@@ -120,7 +120,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/acme">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=acme&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="acme" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=acme&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="acme" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Static Landing Page</span>
@@ -145,7 +145,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_2st_project">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_2st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_2st_project" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_2st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_2st_project" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">2nd Team Project - ROUNZ (Public Mirror)</span>
@@ -159,7 +159,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_1st_project">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_1st_project" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_1st_project" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">1st Team Project - EST CAMP (Public Mirror)</span>
@@ -187,7 +187,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_shop">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_shop" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_shop" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Shopping Cart Practice</span>
@@ -212,7 +212,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---5">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---5" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---5" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">React Basic Mission 5</span>
@@ -226,7 +226,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---3">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---3" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---3" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">React Basic Mission 3</span>
@@ -242,7 +242,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---2">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---2" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---2" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">React Basic Mission 2</span>
@@ -256,7 +256,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission-1">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission-1" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission-1" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">React Template Mission</span>
@@ -272,7 +272,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/map_api">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="map_api" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="map_api" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Kakao Map API Practice</span>
@@ -286,7 +286,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/openweathermap">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="openweathermap" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="openweathermap" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Weather API Practice</span>
@@ -307,7 +307,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio-nextjs_supabase" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio-nextjs_supabase&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio-nextjs_supabase" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Next.js & Supabase Portfolio</span>
@@ -321,7 +321,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/portfolio_ex">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio_ex" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="portfolio_ex" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Vite React Portfolio</span>
@@ -337,7 +337,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/1st-project-ex">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=1st-project-ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="1st-project-ex" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=1st-project-ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="1st-project-ex" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">HTML/CSS Practice</span>
@@ -347,7 +347,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/20260309">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=20260309&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="20260309" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=20260309&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="20260309" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Daily Coding Archive</span>
@@ -359,7 +359,7 @@
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/git_ex">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=git_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="git_ex" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=git_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="git_ex" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Git Learning Workflow</span>
@@ -369,7 +369,7 @@
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/hello_git">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=xoxoworld&repo=hello_git&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="hello_git" />
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=hello_git&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="hello_git" />
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Git Init Check</span>
@@ -396,10 +396,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=xoxoworld&custom_title=GitHub%20Stats&show_icons=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&cache_seconds=600" alt="Stats" height="165" />
+        <img src="https://xoxo-github-stats.vercel.app/api?username=xoxoworld&custom_title=GitHub%20Stats&show_icons=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&cache_seconds=600" alt="Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
+        <img src="https://xoxo-github-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
