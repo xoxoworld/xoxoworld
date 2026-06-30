@@ -27,47 +27,47 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=2dd4bf" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=2dd4bf" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1a1b26?style=flat-square&logo=sass&logoColor=2dd4bf" alt="Sass/SCSS" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=2dd4bf" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=2dd4bf" alt="Next.js" />
-  <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=2dd4bf" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Tailwind--CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/styled--components-1a1b26?style=flat-square&logo=styledcomponents&logoColor=2dd4bf" alt="styled-components" />
-  <img src="https://img.shields.io/badge/daisyUI-1a1b26?style=flat-square&logo=daisyui&logoColor=2dd4bf" alt="daisyUI" />
-  <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=2dd4bf" alt="Axios" />
-  <img src="https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=2dd4bf" alt="Vite" />
-  <img src="https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=2dd4bf" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Swiper-1a1b26?style=flat-square&logo=swiper&logoColor=2dd4bf" alt="Swiper" />
+  <img src="https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1a1b26?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Tailwind--CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/styled--components-1a1b26?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
+  <img src="https://img.shields.io/badge/daisyUI-1a1b26?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
+  <img src="https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Swiper-1a1b26?style=flat-square&logo=swiper&logoColor=6332F6" alt="Swiper" />
 </p>
 
 ### 🗄️ Backend, Database & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=2dd4bf" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=2dd4bf" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=2dd4bf" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=2dd4bf" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </p>
 
 ### 🎨 Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/Figma-1a1b26?style=flat-square&logo=figma&logoColor=2dd4bf" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=2dd4bf" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=2dd4bf" alt="GitHub" />
-  <img src="https://img.shields.io/badge/npm-1a1b26?style=flat-square&logo=npm&logoColor=2dd4bf" alt="npm" />
-  <img src="https://img.shields.io/badge/ESLint-1a1b26?style=flat-square&logo=eslint&logoColor=2dd4bf" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-1a1b26?style=flat-square&logo=prettier&logoColor=2dd4bf" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Gemini-1a1b26?style=flat-square&logo=googlegemini&logoColor=2dd4bf" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-1a1b26?style=flat-square&logo=claude&logoColor=2dd4bf" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-1a1b26?style=flat-square&logo=openai&logoColor=2dd4bf" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b26?style=flat-square&logo=github&logoColor=2dd4bf" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/ChatGPT-1a1b26?style=flat-square&logo=openai&logoColor=2dd4bf" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/v0%20(Vercel)-1a1b26?style=flat-square&logo=vercel&logoColor=2dd4bf" alt="v0" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1a1b26?style=flat-square&logo=google&logoColor=2dd4bf" alt="Google AI Studio" />
-  <img src="https://img.shields.io/badge/Google%20Stitch-1a1b26?style=flat-square&logo=google&logoColor=2dd4bf" alt="Google Stitch" />
+  <img src="https://img.shields.io/badge/Figma-1a1b26?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-1a1b26?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
+  <img src="https://img.shields.io/badge/ESLint-1a1b26?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-1a1b26?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Gemini-1a1b26?style=flat-square&logo=googlegemini&logoColor=8E75C2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-1a1b26?style=flat-square&logo=claude&logoColor=D97756" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b26?style=flat-square&logo=github&logoColor=8957E5" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/v0%20(Vercel)-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="v0" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1a1b26?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-1a1b26?style=flat-square&logo=google&logoColor=4285F4" alt="Google Stitch" />
 </p>
 
 ---
@@ -418,6 +418,6 @@
 ## 📬 Contact & Channels
 <p align="left">
   <a href="mailto:sung021125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=2dd4bf" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
