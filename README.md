@@ -413,6 +413,11 @@
 
 <br/><br/>
 
+  <!-- 3D Contribution Graph -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+<br/><br/>
+
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
