@@ -68,10 +68,9 @@
   <img src="https://img.shields.io/badge/Claude-1a1b26?style=flat-square&logo=claude&logoColor=D97756" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b26?style=flat-square&logo=github&logoColor=8957E5" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/ChatGPT-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/v0%20(Vercel)-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="v0" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1a1b26?style=flat-square&logo=google&logoColor=4285F4" alt="Google AI Studio" />
-  <img src="https://img.shields.io/badge/Google%20Stitch-1a1b26?style=flat-square&logo=google&logoColor=4285F4" alt="Google Stitch" />
+  
+  
 </p>
 
 ---
