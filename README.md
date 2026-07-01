@@ -417,7 +417,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ---
 
 ## 📬 Contact & Channels
