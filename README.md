@@ -3,11 +3,6 @@
   <!-- Dynamic capsule render for header banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=xoxo._.world&fontSize=45&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
   
-  <br/>
-  
-  <!-- Typing SVG for subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hello,+I'm+a+Front-End+Developer;Designing+with+Figma,+Coding+with+Code;Creating+Interactive+Web+Experiences" alt="Typing SVG" />
-
 <br/><br/>
 
   <!-- Hits Counter -->
@@ -411,17 +406,9 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&currStreakLabel=2dd4bf&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="Streak Stats" />
 
-<br/><br/>
-
   <!-- 3D Contribution Graph -->
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-
-<br/><br/>
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
-
 
 ---
 
