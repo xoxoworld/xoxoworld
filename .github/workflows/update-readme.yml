@@ -25,8 +25,8 @@ jobs:
 
       - name: Update README
         env:
-          # A PAT is needed to fetch private activity.
           ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node .github/scripts/update_readme.js
 
       - name: Commit and push changes
