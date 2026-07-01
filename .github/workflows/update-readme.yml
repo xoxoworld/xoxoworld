@@ -3,7 +3,7 @@ name: Update Profile Readme
 on:
   schedule:
     # Runs every 6 hours (at minute 0 of hours 0, 6, 12, 18)
-    - cron: '0 */6 * * *'
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub UI
   repository_dispatch:
     types: [update_readme] # Allows triggering from other repos
@@ -21,11 +21,12 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # A PAT is needed to fetch private activity.
+          ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
         run: node .github/scripts/update_readme.js
 
       - name: Commit and push changes
