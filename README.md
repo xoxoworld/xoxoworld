@@ -8,7 +8,7 @@
   <!-- Typing SVG for subtitle -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Hello,+I'm+a+Front-End+Developer;Designing+with+Figma,+Coding+with+Code;Creating+Interactive+Web+Experiences" alt="Typing SVG" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Hits Counter -->
   <img src="https://komarev.com/ghpvc/?username=xoxoworld&color=2dd4bf&style=flat-square" alt="Hits" />
@@ -17,6 +17,7 @@
 <br/>
 
 ## 👤 About Me
+
 안녕하세요, 디테일한 인터랙션과 픽셀 단위의 완결성을 고민하는 프론트엔드 개발자 **xoxo**입니다.
 
 디자인 시안(Figma)의 정교한 디테일을 왜곡 없이 모던한 마크업과 코드(React 19, Next.js, Tailwind v4, SCSS)로 옮겨내는 것을 좋아합니다. 단순히 작동하는 페이지를 만드는 것을 넘어, 사용자가 직접 만지고 느끼는 프리미엄 디지털 경험과 매끄러운 웹 애니메이션을 만드는 데 집중하고 있습니다.
@@ -26,6 +27,7 @@
 ## 🛠️ Technology Orbit
 
 ### 🌐 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -45,6 +47,7 @@
 </p>
 
 ### 🗄️ Backend, Database & Cloud
+
 <p>
   <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
@@ -53,6 +56,7 @@
 </p>
 
 ### 🎨 Design & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Figma-1a1b26?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
@@ -383,6 +387,7 @@
 </details>
 
 ## ⚡ Recent Activity
+
 <!-- START_SECTION:activity -->
 
 - 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 6월 29일)
@@ -395,7 +400,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://xoxo-github-stats.vercel.app/api?username=xoxoworld&custom_title=GitHub%20Stats&show_icons=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&cache_seconds=600" alt="Stats" height="165" />
+        <img src="https://xoxo-github-stats.vercel.app/api?username=xoxoworld&custom_title=GitHub%20Stats&show_icons=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&cache_seconds=21600" alt="Stats" height="165" />
       </td>
       <td>
         <img src="https://xoxo-github-stats.vercel.app/api/top-langs/?username=xoxoworld&layout=compact&count_private=true&langs_count=8&hide=stata,Stata&title_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true" alt="Top Languages" height="165" />
@@ -407,7 +412,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&currStreakLabel=2dd4bf&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="Streak Stats" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoxoworld&theme=tokyonight&color=2dd4bf&hide_border=true" alt="Activity Graph" width="100%" />
@@ -416,6 +421,7 @@
 ---
 
 ## 📬 Contact & Channels
+
 <p align="left">
   <a href="mailto:sung021125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
