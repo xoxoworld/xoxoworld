@@ -30,6 +30,7 @@ async function main() {
       if (activityLines.length >= 5) break;
 
       const repoName = event.repo.name;
+      const shortRepoName = repoName.split("/")[1];
       const repoUrl = `https://github.com/${repoName}`;
       const eventTime = new Date(event.created_at).toLocaleDateString("ko-KR", {
         year: "numeric",

@@ -26,7 +26,7 @@ jobs:
       - name: Update README
         env:
           ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: node .github/scripts/update_readme.js
 
       - name: Commit and push changes
