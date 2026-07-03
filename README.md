@@ -384,11 +384,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`Pull-Shark-/main`](https://github.com/xoxoworld/Pull-Shark-/tree/main)에 커밋 푸시 (2026년 7월 1일)
-- 🔀 [**Pull-Shark-**](https://github.com/xoxoworld/Pull-Shark-)에 PR [#2]() 오픈 (2026년 7월 1일)
-- 🔨 [`Pull-Shark-/yoyo`](https://github.com/xoxoworld/Pull-Shark-/tree/yoyo)에 커밋 푸시 (2026년 7월 1일)
-- 🔀 [**Pull-Shark-**](https://github.com/xoxoworld/Pull-Shark-)에 PR [#1]() 오픈 (2026년 7월 1일)
-- 🔨 [`Pull-Shark-/Pull-Shark`](https://github.com/xoxoworld/Pull-Shark-/tree/Pull-Shark)에 커밋 푸시 (2026년 7월 1일)
+- 🔨 [`swiper/main`](https://github.com/xoxoworld/swiper/tree/main)에 커밋 푸시 (2026년 7월 3일)
+- 🔨 [`usestate/main`](https://github.com/xoxoworld/usestate/tree/main)에 커밋 푸시 (2026년 7월 3일)
+- 🔨 [`todolist_ls/main`](https://github.com/xoxoworld/todolist_ls/tree/main)에 커밋 푸시 (2026년 7월 3일)
+- 🔨 [`Router/main`](https://github.com/xoxoworld/Router/tree/main)에 커밋 푸시 (2026년 7월 3일)
+- 🔨 [`Redux/main`](https://github.com/xoxoworld/Redux/tree/main)에 커밋 푸시 (2026년 7월 3일)
 
 <!-- END_SECTION:activity -->
 
