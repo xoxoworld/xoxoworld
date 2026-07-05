@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
   <img src="https://img.shields.io/badge/Tailwind--CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
@@ -293,6 +294,108 @@
           <br/><br/>
         </td>
       </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/hooks-starter">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=hooks-starter&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="hooks-starter" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React Hooks Study Starter Template</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/usestate">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=usestate&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="usestate" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React useState hook state management</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/lifeCycle">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=lifeCycle&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="lifeCycle" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React Class Component Lifecycle & useEffect Hook</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/contexAPI">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=contexAPI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="contexAPI" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React Context API global state management</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/ajax">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=ajax&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="ajax" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React AJAX data fetching with axios & fetch API</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/todolist_ls">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=todolist_ls&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="todolist_ls" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">Todo List application with LocalStorage persistence</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/Router">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Router&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Router" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React Router navigation & page transitions</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/Redux">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Redux&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Redux" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">Redux and global state management</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/swiper">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=swiper&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="swiper" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">Swiper library integration in React</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+        </td>
+      </tr>
     </table>
   </div>
 </details>
@@ -371,6 +474,32 @@
           </a>
           <br/>
           <span style="font-size: 12px; color: #888;">Git Init Check</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/github-readme-stats">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=github-readme-stats&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="github-readme-stats" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">Self-hosted GitHub Readme Stats API on Vercel</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://github-readme-stats.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/Pull-Shark-">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Pull-Shark-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Pull-Shark-" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">GitHub Pull Shark Badge Archive</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
