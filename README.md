@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
   <img src="https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub Pages" />
 </p>
