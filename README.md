@@ -137,6 +137,24 @@
           <br/><br/>
         </td>
       </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/HYUNDAI">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=HYUNDAI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="HYUNDAI" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">현대자동차그룹 메인 추천 기능 클론 코딩</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://hyundai-khaki.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+        </td>
+      </tr>
     </table>
   </div>
 </details>
@@ -399,6 +417,18 @@
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/NODEBOX">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=NODEBOX&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="NODEBOX" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19 컴포넌트, State & 이벤트 기초 실습</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://nodebox-nu.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
         </td>
       </tr>
     </table>
@@ -518,9 +548,9 @@
 
 <!-- START_SECTION:activity -->
 
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 8일)
 - 🔨 [`HYUNDAI/main`](https://github.com/xoxoworld/HYUNDAI/tree/main)에 커밋 푸시 (2026년 7월 7일)
-- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 5일)
-- 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 4일)
+- 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 5일)
 - 🔨 [`swiper/main`](https://github.com/xoxoworld/swiper/tree/main)에 커밋 푸시 (2026년 7월 3일)
 - 🔨 [`usestate/main`](https://github.com/xoxoworld/usestate/tree/main)에 커밋 푸시 (2026년 7월 3일)
 
