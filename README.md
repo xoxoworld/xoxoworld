@@ -759,11 +759,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`SHINSEGAE/main`](https://github.com/xoxoworld/SHINSEGAE/tree/main)에 커밋 푸시 — *"fix: hide grecaptcha-badge to prevent invalid domain owner error overlays"* (2026년 7월 16일)
-- 🔨 [`THE-HYUNDAI/main`](https://github.com/xoxoworld/THE-HYUNDAI/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 15일)
-- 🔨 [`PORSCHE/main`](https://github.com/xoxoworld/PORSCHE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
-- 🔨 [`RESCENE_ARCHIVE/main`](https://github.com/xoxoworld/RESCENE_ARCHIVE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
-- 🔨 [`themuze.kr/main`](https://github.com/xoxoworld/themuze.kr/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 16일)
+- 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 (2026년 7월 8일)
+- 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 4일)
+- 🔨 [`swiper/main`](https://github.com/xoxoworld/swiper/tree/main)에 커밋 푸시 (2026년 7월 3일)
+- 🔨 [`usestate/main`](https://github.com/xoxoworld/usestate/tree/main)에 커밋 푸시 (2026년 7월 3일)
 
 <!-- END_SECTION:activity -->
 
