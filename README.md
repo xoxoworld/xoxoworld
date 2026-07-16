@@ -33,10 +33,16 @@
   <img src="https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/React%20Router-1a1b26?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" />
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-1a1b26?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
   <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
   <img src="https://img.shields.io/badge/Tailwind--CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/styled--components-1a1b26?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
   <img src="https://img.shields.io/badge/daisyUI-1a1b26?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/GSAP-1a1b26?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Three.js-1a1b26?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-1a1b26?style=flat-square&logo=webgl&logoColor=990000" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Leaflet-1a1b26?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/PWA-1a1b26?style=flat-square&logo=progressivewebapp&logoColor=5A0FC8" alt="PWA" />
   <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
   <img src="https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
@@ -48,8 +54,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-1a1b26?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
   <img src="https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub Pages" />
@@ -70,8 +79,8 @@
   <img src="https://img.shields.io/badge/OpenAI%20Codex-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-1a1b26?style=flat-square&logo=github&logoColor=8957E5" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/v0%20(Vercel)-1a1b26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="v0" />
-  
-  
+  <img src="https://img.shields.io/badge/raylib-1a1b26?style=flat-square&logo=raylib&logoColor=E0A92C" alt="raylib" />
+  <img src="https://img.shields.io/badge/PySide6-1a1b26?style=flat-square&logo=qt&logoColor=41CD52" alt="PySide6" />
 </p>
 
 ---
@@ -82,7 +91,7 @@
   <summary>💻 <b>Web Clones & Interactive Sites</b></summary>
   <br/>
   <div align="center">
-        <table border="0">
+    <table border="0">
       <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/PORSCHE-HTML%20%2F%20Astro%20%2F%20Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="PORSCHE" />
@@ -231,6 +240,98 @@
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
           <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/SHINSEGAE-Vite%20%2F%20jQuery%20%2F%20TweenMax-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="SHINSEGAE" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">신세계백화점 공식 홈페이지 메인 페이지 고해상도 클론 코딩 (로컬 모의 API 및 VIP 로그인 시뮬레이션 통합)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/THE%20HYUNDAI-Vite%20%2F%20HTML%20%2F%20CSS%20%2F%20JS-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="THE HYUNDAI" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">현대백화점 공식 포털 사이트 정밀 클론 코딩 (Happiness-Sans 로컬 폰트 다운로더 & 동적 API 미들웨어 모킹)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/SCENE--FLIX-HTML%20%2F%20SCSS%20%2F%20JS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="SCENE-FLIX" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">리센느(RESCENE) 팬메이드 아카이브 웹 애플리케이션 (극장식 모달 플레이어, 넷플릭스 스타일 필터, 실시간 디바운스 검색 및 PWA 적용)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/RogueQuest-Three.js%20%2F%20WebGL%20%2F%20raylib-1a1b26?style=for-the-badge&logo=three.js&logoColor=2dd4bf" alt="RogueQuest" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">하이브리드 3D 로그라이크 RPG 게임 (Three.js WebGL 에디션 & C 언어 Raylib 네이티브 에디션 구성, 돌진 타격 및 콤보 시스템 구현)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/Spotify%20Web%20Player-React%2019%20%2F%20TS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=react&logoColor=2dd4bf" alt="Spotify Web Player" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19과 TS 기반 스포티파이 웹 플레이어 클론 코딩 (실시간 가사 동기화, 좋아요 상태 동기화, 동적 테마 그라데이션 및 SVG 마스코트 애니메이션)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/kakaobank_">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">카카오뱅크 공식 홈페이지 메인 페이지 클론 코딩 (스크롤 방향 감지 헤더 & Swiper 슬라이더 인터랙션)</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/Starfield-HTML%20%2F%20SCSS%20%2F%20Tailwind%20v4-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=2dd4bf" alt="Starfield" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">스타필드 하남 공식 홈페이지 반응형 클론 코딩 (메가 메뉴 & Swiper 3D 입체 카드 효과)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/slowpage">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">책과 함께 여유로운 시간을 보내는 공간, 슬로우 페이지 (GSAP 가로 스크롤 & 3D 북 플립 애니메이션 구현)</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="http://s1.slowpage.shop">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/SBS%20Academy-React%20%2F%20FastAPI%20%2F%20Python-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2dd4bf" alt="SBS Academy" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">SBS 아카데미 컴퓨터아트학원 안산점 풀스택 실무 애플리케이션 (React 프론트엔드와 FastAPI 백엔드 연동, 실시간 코드 플레이그라운드 수록)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
         </td>
       </tr>
     </table>
@@ -632,6 +733,24 @@
           <br/><br/>
         </td>
       </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_portfolio_ex">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19 + Tailwind v4 기반 3대 브랜드(ESSENCE LAB, ROM&ND, SERENIQ) 쇼케이스 갤러리 포트폴리오</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/web_portfolio_ex/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+        </td>
+      </tr>
     </table>
   </div>
 </details>
@@ -640,11 +759,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`PORSCHE/main`](https://github.com/xoxoworld/PORSCHE/tree/main)에 커밋 푸시 — *"fix: resolve astro island dynamic script dependencies and move assets to public directory for static serving"* (2026년 7월 11일)
-- 🔨 [`Ferrari/main`](https://github.com/xoxoworld/Ferrari/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 10일)
-- 🔨 [`COCA_COLA/main`](https://github.com/xoxoworld/COCA_COLA/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 9일)
-- 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 8일)
-- 🔨 [`SAMSUNG_CNT/main`](https://github.com/xoxoworld/SAMSUNG_CNT/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 8일)
+- 🔨 [`SHINSEGAE/main`](https://github.com/xoxoworld/SHINSEGAE/tree/main)에 커밋 푸시 — *"fix: hide grecaptcha-badge to prevent invalid domain owner error overlays"* (2026년 7월 16일)
+- 🔨 [`THE-HYUNDAI/main`](https://github.com/xoxoworld/THE-HYUNDAI/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 15일)
+- 🔨 [`PORSCHE/main`](https://github.com/xoxoworld/PORSCHE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
+- 🔨 [`RESCENE_ARCHIVE/main`](https://github.com/xoxoworld/RESCENE_ARCHIVE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
+- 🔨 [`themuze.kr/main`](https://github.com/xoxoworld/themuze.kr/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
 
 <!-- END_SECTION:activity -->
 
