@@ -759,11 +759,11 @@
 
 <!-- START_SECTION:activity -->
 
+- 🔨 [`Squarespace-Foundations/main`](https://github.com/xoxoworld/Squarespace-Foundations/tree/main)에 커밋 푸시 (2026년 7월 21일)
 - 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 (2026년 7월 18일)
 - 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 16일)
 - 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 (2026년 7월 8일)
 - 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 4일)
-- 🔨 [`swiper/main`](https://github.com/xoxoworld/swiper/tree/main)에 커밋 푸시 (2026년 7월 3일)
 
 <!-- END_SECTION:activity -->
 
