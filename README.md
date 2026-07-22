@@ -29,18 +29,19 @@
   <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1a1b26?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React%2019-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
   <img src="https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
   <img src="https://img.shields.io/badge/React%20Router-1a1b26?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" />
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/Astro-1a1b26?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
   <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Tailwind--CSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind--CSS%20v4-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS v4" />
   <img src="https://img.shields.io/badge/styled--components-1a1b26?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
   <img src="https://img.shields.io/badge/daisyUI-1a1b26?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
   <img src="https://img.shields.io/badge/GSAP-1a1b26?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
   <img src="https://img.shields.io/badge/Three.js-1a1b26?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
   <img src="https://img.shields.io/badge/WebGL-1a1b26?style=flat-square&logo=webgl&logoColor=990000" alt="WebGL" />
+  <img src="https://img.shields.io/badge/WebAssembly%20(Wasm)-1a1b26?style=flat-square&logo=webassembly&logoColor=654FF0" alt="WebAssembly" />
   <img src="https://img.shields.io/badge/Leaflet-1a1b26?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
   <img src="https://img.shields.io/badge/PWA-1a1b26?style=flat-square&logo=progressivewebapp&logoColor=5A0FC8" alt="PWA" />
   <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
@@ -48,6 +49,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React%20Bootstrap-1a1b26?style=flat-square&logo=reactbootstrap&logoColor=41E0FD" alt="React Bootstrap" />
   <img src="https://img.shields.io/badge/Swiper-1a1b26?style=flat-square&logo=swiper&logoColor=6332F6" alt="Swiper" />
+  <img src="https://img.shields.io/badge/Lucide%20React-1a1b26?style=flat-square&logo=lucide&logoColor=F56565" alt="Lucide React" />
+  <img src="https://img.shields.io/badge/PostCSS-1a1b26?style=flat-square&logo=postcss&logoColor=DD3A0A" alt="PostCSS" />
 </p>
 
 ### 🗄️ Backend, Database & Cloud
@@ -55,7 +58,10 @@
 <p>
   <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C-1a1b26?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1a1b26?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-1a1b26?style=flat-square&logo=rust&logoColor=FFFFFF" alt="Rust" />
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1a1b26?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
@@ -87,7 +93,7 @@
 
 ## 🚀 Projects & Showcases
 
-<details>
+<details open>
   <summary>💻 <b>Web Clones & Interactive Sites</b></summary>
   <br/>
   <div align="center">
@@ -156,6 +162,34 @@
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/HYUNDAI__CARD-Express%20%2F%20Node.js%20%2F%20JS-1a1b26?style=for-the-badge&logo=express&logoColor=2dd4bf" alt="HYUNDAI_CARD" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">현대카드 공식 웹사이트 고정밀 클론 (Express 혜택 API & 인터랙티브 카드 시뮬레이션)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/shinhan__card-HTML%20%2F%20CSS%20%2F%20MockData-1a1b26?style=for-the-badge&logo=javascript&logoColor=2dd4bf" alt="shinhan_card" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">신한카드 메인 페이지 고해상도 클론 (Vercel POST 제한 우회 Mock Data 파이프라인)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/POKEMON-Express%20%2F%20Axios%20%2F%20API%20Proxy-1a1b26?style=for-the-badge&logo=express&logoColor=2dd4bf" alt="POKEMON" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">포켓몬 코리아 공식 웹사이트 고해상도 리플리카 (Live API 프록시 백엔드 미들웨어)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/kakaomap-FastAPI%20%2F%20Rust%20WASM%20%2F%20Leaflet-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2dd4bf" alt="kakaomap" />
           <br/>
           <span style="font-size: 12px; color: #888;">카카오맵 클론 코딩 (Rust Wasm Dijkstra 경로 최단 연산 고도화)</span>
@@ -163,8 +197,6 @@
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/KFC-React%20%2F%20Vite%20%2F%20Oxlint-1a1b26?style=for-the-badge&logo=react&logoColor=2dd4bf" alt="KFC" />
           <br/>
@@ -173,6 +205,8 @@
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/TOSS-Next.js%20%2F%20TS-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="TOSS" />
           <br/>
@@ -185,8 +219,6 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/themuze.kr-JavaScript%20%2F%20HTML-1a1b26?style=for-the-badge&logo=javascript&logoColor=2dd4bf" alt="themuze.kr" />
           <br/>
@@ -199,6 +231,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/blue--ocean-Next.js%20%2F%20TS%20%2F%20Tailwind-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="blue-ocean" />
           <br/>
@@ -211,14 +245,12 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/acme">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=acme&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="acme" />
           </a>
           <br/>
-          <span style="font-size: 12px; color: #888;">Static Landing Page</span>
+          <span style="font-size: 12px; color: #888;">Static Landing Page & Corporate Design</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
@@ -227,6 +259,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/HYUNDAI">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=HYUNDAI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="HYUNDAI" />
@@ -241,38 +275,28 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/SHINSEGAE-Vite%20%2F%20jQuery%20%2F%20TweenMax-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="SHINSEGAE" />
           <br/>
-          <span style="font-size: 12px; color: #888;">신세계백화점 공식 홈페이지 메인 페이지 고해상도 클론 코딩 (로컬 모의 API 및 VIP 로그인 시뮬레이션 통합)</span>
+          <span style="font-size: 12px; color: #888;">신세계백화점 공식 홈페이지 메인 페이지 고해상도 클론 코딩 (VIP 로그인 시뮬레이션)</span>
           <br/>
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/THE%20HYUNDAI-Vite%20%2F%20HTML%20%2F%20CSS%20%2F%20JS-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="THE HYUNDAI" />
           <br/>
-          <span style="font-size: 12px; color: #888;">현대백화점 공식 포털 사이트 정밀 클론 코딩 (Happiness-Sans 로컬 폰트 다운로더 & 동적 API 미들웨어 모킹)</span>
+          <span style="font-size: 12px; color: #888;">현대백화점 공식 포털 사이트 정밀 클론 코딩 (Happiness-Sans 폰트 & API 미들웨어)</span>
           <br/>
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/SCENE--FLIX-HTML%20%2F%20SCSS%20%2F%20JS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=vite&logoColor=2dd4bf" alt="SCENE-FLIX" />
           <br/>
-          <span style="font-size: 12px; color: #888;">리센느(RESCENE) 팬메이드 아카이브 웹 애플리케이션 (극장식 모달 플레이어, 넷플릭스 스타일 필터, 실시간 디바운스 검색 및 PWA 적용)</span>
-          <br/>
-          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-          <img src="https://img.shields.io/badge/RogueQuest-Three.js%20%2F%20WebGL%20%2F%20raylib-1a1b26?style=for-the-badge&logo=three.js&logoColor=2dd4bf" alt="RogueQuest" />
-          <br/>
-          <span style="font-size: 12px; color: #888;">하이브리드 3D 로그라이크 RPG 게임 (Three.js WebGL 에디션 & C 언어 Raylib 네이티브 에디션 구성, 돌진 타격 및 콤보 시스템 구현)</span>
+          <span style="font-size: 12px; color: #888;">리센느(RESCENE) 팬메이드 아카이브 웹 애플리케이션 (극장식 모달 플레이어 & PWA)</span>
           <br/>
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
@@ -280,39 +304,49 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <img src="https://img.shields.io/badge/Spotify%20Web%20Player-React%2019%20%2F%20TS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=react&logoColor=2dd4bf" alt="Spotify Web Player" />
+          <img src="https://img.shields.io/badge/RogueQuest-Three.js%20%2F%20WebGL%20%2F%20raylib-1a1b26?style=for-the-badge&logo=three.js&logoColor=2dd4bf" alt="RogueQuest" />
           <br/>
-          <span style="font-size: 12px; color: #888;">React 19과 TS 기반 스포티파이 웹 플레이어 클론 코딩 (실시간 가사 동기화, 좋아요 상태 동기화, 동적 테마 그라데이션 및 SVG 마스코트 애니메이션)</span>
+          <span style="font-size: 12px; color: #888;">하이브리드 3D 로그라이크 RPG 게임 (Three.js WebGL & C 언어 Raylib 네이티브 에디션)</span>
           <br/>
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/Spotify%20Web%20Player-React%2019%20%2F%20TS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=react&logoColor=2dd4bf" alt="Spotify Web Player" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19과 TS 기반 스포티파이 웹 플레이어 클론 코딩 (가사 동기화 & 동적 테마)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/kakaobank_">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
           </a>
           <br/>
-          <span style="font-size: 12px; color: #888;">카카오뱅크 공식 홈페이지 메인 페이지 클론 코딩 (스크롤 방향 감지 헤더 & Swiper 슬라이더 인터랙션)</span>
+          <span style="font-size: 12px; color: #888;">카카오뱅크 공식 홈페이지 메인 페이지 클론 코딩 (스크롤 감지 & Swiper)</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/Starfield-HTML%20%2F%20SCSS%20%2F%20Tailwind%20v4-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=2dd4bf" alt="Starfield" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">스타필드 하남 공식 홈페이지 반응형 클론 코딩 (메가 메뉴 & Swiper 3D 카드)</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <img src="https://img.shields.io/badge/Starfield-HTML%20%2F%20SCSS%20%2F%20Tailwind%20v4-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=2dd4bf" alt="Starfield" />
-          <br/>
-          <span style="font-size: 12px; color: #888;">스타필드 하남 공식 홈페이지 반응형 클론 코딩 (메가 메뉴 & Swiper 3D 입체 카드 효과)</span>
-          <br/>
-          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/slowpage">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
           </a>
           <br/>
-          <span style="font-size: 12px; color: #888;">책과 함께 여유로운 시간을 보내는 공간, 슬로우 페이지 (GSAP 가로 스크롤 & 3D 북 플립 애니메이션 구현)</span>
+          <span style="font-size: 12px; color: #888;">책과 함께 여유로운 시간을 보내는 공간, 슬로우 페이지 (GSAP 가로 스크롤 & 3D 북 플립)</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
@@ -321,24 +355,20 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/SBS%20Academy-React%20%2F%20FastAPI%20%2F%20Python-1a1b26?style=for-the-badge&logo=fastapi&logoColor=2dd4bf" alt="SBS Academy" />
           <br/>
-          <span style="font-size: 12px; color: #888;">SBS 아카데미 컴퓨터아트학원 안산점 풀스택 실무 애플리케이션 (React 프론트엔드와 FastAPI 백엔드 연동, 실시간 코드 플레이그라운드 수록)</span>
+          <span style="font-size: 12px; color: #888;">SBS 아카데미 컴퓨터아트학원 안산점 풀스택 실무 애플리케이션 (React + FastAPI)</span>
           <br/>
           <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
         </td>
       </tr>
     </table>
   </div>
 </details>
 
-<details>
+<details open>
   <summary>🎓 <b>ESTsoft Frontend Bootcamp (FE 13) Projects</b></summary>
   <br/>
   <div align="center">
@@ -405,12 +435,22 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>🧪 <b>React & API Labs Archive</b></summary>
   <br/>
   <div align="center">
-        <table border="0">
+    <table border="0">
       <tr>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/Basic-Review-Mission-8">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Basic-Review-Mission-8&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Basic-Review-Mission-8" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19 & Oxlint Linter Review Mission 8</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+        </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Review-Mission-7-">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Review-Mission-7-&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Review-Mission-7-" />
@@ -421,6 +461,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---5">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---5&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---5" />
@@ -435,8 +477,6 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---3">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---3&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---3" />
@@ -451,6 +491,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission---2">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission---2&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission---2" />
@@ -465,8 +507,6 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Mission-1">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=React-Basic-Mission-1&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="React-Basic-Mission-1" />
@@ -481,6 +521,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/map_api">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=map_api&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="map_api" />
@@ -495,8 +537,6 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/openweathermap">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=openweathermap&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="openweathermap" />
@@ -507,6 +547,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/hooks-starter">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=hooks-starter&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="hooks-starter" />
@@ -517,8 +559,6 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/usestate">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=usestate&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="usestate" />
@@ -529,6 +569,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/lifeCycle">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=lifeCycle&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="lifeCycle" />
@@ -539,8 +581,6 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/contexAPI">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=contexAPI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="contexAPI" />
@@ -551,6 +591,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/ajax">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=ajax&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="ajax" />
@@ -561,8 +603,6 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/todolist_ls">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=todolist_ls&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="todolist_ls" />
@@ -573,6 +613,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/Router">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Router&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Router" />
@@ -583,8 +625,6 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/Redux">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=Redux&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="Redux" />
@@ -595,6 +635,8 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/swiper">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=swiper&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="swiper" />
@@ -605,8 +647,6 @@
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/NODEBOX">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=NODEBOX&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="NODEBOX" />
@@ -621,18 +661,40 @@
           </a>
           <br/><br/>
         </td>
-        <td align="center" valign="top" width="50%">
-        </td>
       </tr>
     </table>
   </div>
 </details>
 
-<details>
-  <summary>📂 <b>Portfolio Sandbox & Learning Lab</b></summary>
+<details open>
+  <summary>📂 <b>Portfolio Sandbox & Architecture Lab</b></summary>
   <br/>
   <div align="center">
     <table border="0">
+      <tr>
+        <td align="center" valign="top" width="50%">
+          <img src="https://img.shields.io/badge/Squarespace--Foundations-Node.js%20%2F%20TS%20%2F%20Python-1a1b26?style=for-the-badge&logo=typescript&logoColor=2dd4bf" alt="Squarespace-Foundations" />
+          <br/>
+          <span style="font-size: 12px; color: #888;">Squarespace Foundations 템플릿 모듈 아키텍처 리팩토링</span>
+          <br/>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/web_portfolio_ex">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">React 19 + Tailwind v4 3대 브랜드(ESSENCE LAB, ROM&ND, SERENIQ) 포트폴리오</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://xoxoworld.github.io/web_portfolio_ex/">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+      </tr>
       <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/portfolio-nextjs_supabase">
@@ -733,24 +795,6 @@
           <br/><br/>
         </td>
       </tr>
-      <tr>
-        <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_portfolio_ex">
-            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
-          </a>
-          <br/>
-          <span style="font-size: 12px; color: #888;">React 19 + Tailwind v4 기반 3대 브랜드(ESSENCE LAB, ROM&ND, SERENIQ) 쇼케이스 갤러리 포트폴리오</span>
-          <br/>
-          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
-          <br/><br/>
-          <a href="https://xoxoworld.github.io/web_portfolio_ex/">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
-        </td>
-        <td align="center" valign="top" width="50%">
-        </td>
-      </tr>
     </table>
   </div>
 </details>
@@ -759,11 +803,12 @@
 
 <!-- START_SECTION:activity -->
 
+- 🔨 [`shinhan_card/main`](https://github.com/xoxoworld/shinhan_card/tree/main)에 커밋 푸시 — *"fix: relocate ajax mock files to mock-data to bypass Vercel static POST restriction"* (2026년 7월 18일)
+- 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 — *"React 19 컴포넌트 구조화 및 Oxlint 린터 미션 8 완료"* (2026년 7월 18일)
 - 🔨 [`SHINSEGAE/main`](https://github.com/xoxoworld/SHINSEGAE/tree/main)에 커밋 푸시 — *"fix: hide grecaptcha-badge to prevent invalid domain owner error overlays"* (2026년 7월 16일)
 - 🔨 [`THE-HYUNDAI/main`](https://github.com/xoxoworld/THE-HYUNDAI/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 15일)
 - 🔨 [`PORSCHE/main`](https://github.com/xoxoworld/PORSCHE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
 - 🔨 [`RESCENE_ARCHIVE/main`](https://github.com/xoxoworld/RESCENE_ARCHIVE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
-- 🔨 [`themuze.kr/main`](https://github.com/xoxoworld/themuze.kr/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
 
 <!-- END_SECTION:activity -->
 
