@@ -91,6 +91,7 @@
 
 ---
 
+<!--
 ## 🚀 Projects & Showcases
 
 <details>
@@ -798,6 +799,7 @@
     </table>
   </div>
 </details>
+-->
 
 ## ⚡ Recent Activity
 
