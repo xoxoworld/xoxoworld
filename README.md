@@ -803,13 +803,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`Squarespace-Foundations/main`](https://github.com/xoxoworld/Squarespace-Foundations/tree/main)에 커밋 푸시 — *"Node.js, TypeScript, Python 템플릿 아키텍처 리팩토링"* (2026년 7월 22일)
-- 🔨 [`shinhan_card/main`](https://github.com/xoxoworld/shinhan_card/tree/main)에 커밋 푸시 — *"fix: relocate ajax mock files to mock-data to bypass Vercel static POST restriction"* (2026년 7월 18일)
-- 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 — *"React 19 컴포넌트 구조화 및 Oxlint 린터 미션 8 완료"* (2026년 7월 18일)
-- 🔨 [`SHINSEGAE/main`](https://github.com/xoxoworld/SHINSEGAE/tree/main)에 커밋 푸시 — *"fix: hide grecaptcha-badge to prevent invalid domain owner error overlays"* (2026년 7월 16일)
-- 🔨 [`THE-HYUNDAI/main`](https://github.com/xoxoworld/THE-HYUNDAI/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 15일)
-- 🔨 [`PORSCHE/main`](https://github.com/xoxoworld/PORSCHE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
-- 🔨 [`RESCENE_ARCHIVE/main`](https://github.com/xoxoworld/RESCENE_ARCHIVE/tree/main)에 커밋 푸시 — *"수정"* (2026년 7월 14일)
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 22일)
+- 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 (2026년 7월 18일)
+- 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 (2026년 7월 8일)
+- 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 4일)
+- 🔨 [`swiper/main`](https://github.com/xoxoworld/swiper/tree/main)에 커밋 푸시 (2026년 7월 3일)
 
 <!-- END_SECTION:activity -->
 
