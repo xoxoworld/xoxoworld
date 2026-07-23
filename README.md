@@ -93,7 +93,7 @@
 
 ## 🚀 Projects & Showcases
 
-<details open>
+<details>
   <summary>💻 <b>Web Clones & Interactive Sites</b></summary>
   <br/>
   <div align="center">
@@ -368,7 +368,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary>🎓 <b>ESTsoft Frontend Bootcamp (FE 13) Projects</b></summary>
   <br/>
   <div align="center">
@@ -435,7 +435,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary>🧪 <b>React & API Labs Archive</b></summary>
   <br/>
   <div align="center">
@@ -666,7 +666,7 @@
   </div>
 </details>
 
-<details open>
+<details>
   <summary>📂 <b>Portfolio Sandbox & Architecture Lab</b></summary>
   <br/>
   <div align="center">
