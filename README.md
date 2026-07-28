@@ -829,7 +829,7 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xoxoworld&theme=tokyonight&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&currStreakLabel=2dd4bf&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=xoxoworld&theme=tokyonight&ring=2dd4bf&fire=2dd4bf&currStreakNum=2dd4bf&currStreakLabel=2dd4bf&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="Streak Stats" />
 
   <!-- 3D Contribution Graph -->
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
