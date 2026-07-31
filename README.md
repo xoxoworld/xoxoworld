@@ -21,31 +21,28 @@
 
 ## 🛠️ Technology Orbit
 
-### 🌐 Frontend
+### 🌐 Core Frontend & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-1a1b26?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1a1b26?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1a1b26?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React%2019-1a1b26?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
-  <img src="https://img.shields.io/badge/React%20Router-1a1b26?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" />
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/Astro-1a1b26?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
+  <img src="https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/jQuery-1a1b26?style=flat-square&logo=jquery&logoColor=0769AD" alt="jQuery" />
+  <img src="https://img.shields.io/badge/PWA-1a1b26?style=flat-square&logo=progressivewebapp&logoColor=5A0FC8" alt="PWA" />
+</p>
+
+### 🎨 Styling, UI Systems & Components
+
+<p>
   <img src="https://img.shields.io/badge/Tailwind--CSS%20v4-1a1b26?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS v4" />
+  <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-1a1b26?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass/SCSS" />
   <img src="https://img.shields.io/badge/styled--components-1a1b26?style=flat-square&logo=styledcomponents&logoColor=DB7093" alt="styled-components" />
   <img src="https://img.shields.io/badge/daisyUI-1a1b26?style=flat-square&logo=daisyui&logoColor=5AD8E6" alt="daisyUI" />
-  <img src="https://img.shields.io/badge/GSAP-1a1b26?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Three.js-1a1b26?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
-  <img src="https://img.shields.io/badge/WebGL-1a1b26?style=flat-square&logo=webgl&logoColor=990000" alt="WebGL" />
-  <img src="https://img.shields.io/badge/WebAssembly%20(Wasm)-1a1b26?style=flat-square&logo=webassembly&logoColor=654FF0" alt="WebAssembly" />
-  <img src="https://img.shields.io/badge/Leaflet-1a1b26?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/PWA-1a1b26?style=flat-square&logo=progressivewebapp&logoColor=5A0FC8" alt="PWA" />
-  <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
-  <img src="https://img.shields.io/badge/Vite-1a1b26?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/Bootstrap-1a1b26?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React%20Bootstrap-1a1b26?style=flat-square&logo=reactbootstrap&logoColor=41E0FD" alt="React Bootstrap" />
   <img src="https://img.shields.io/badge/Swiper-1a1b26?style=flat-square&logo=swiper&logoColor=6332F6" alt="Swiper" />
@@ -53,16 +50,34 @@
   <img src="https://img.shields.io/badge/PostCSS-1a1b26?style=flat-square&logo=postcss&logoColor=DD3A0A" alt="PostCSS" />
 </p>
 
+### ⚡ State & Routing & Data Fetching
+
+<p>
+  <img src="https://img.shields.io/badge/Redux-1a1b26?style=flat-square&logo=redux&logoColor=764ABC" alt="Redux" />
+  <img src="https://img.shields.io/badge/React%20Router-1a1b26?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" />
+  <img src="https://img.shields.io/badge/Axios-1a1b26?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" />
+</p>
+
+### 🎬 Animation & Visual Graphics
+
+<p>
+  <img src="https://img.shields.io/badge/GSAP-1a1b26?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Three.js-1a1b26?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-1a1b26?style=flat-square&logo=webgl&logoColor=990000" alt="WebGL" />
+  <img src="https://img.shields.io/badge/WebAssembly%20(Wasm)-1a1b26?style=flat-square&logo=webassembly&logoColor=654FF0" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/Leaflet-1a1b26?style=flat-square&logo=leaflet&logoColor=199900" alt="Leaflet" />
+</p>
+
 ### 🗄️ Backend, Database & Cloud
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-1a1b26?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C-1a1b26?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-1a1b26?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-1a1b26?style=flat-square&logo=rust&logoColor=FFFFFF" alt="Rust" />
-  <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-1a1b26?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-1a1b26?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
@@ -70,16 +85,26 @@
   <img src="https://img.shields.io/badge/GitHub%20Pages-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub Pages" />
 </p>
 
-### 🎨 Design & Tools
+### 🛡️ Code Quality, Testing & Dev Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Oxlint-1a1b26?style=flat-square&logo=oxlint&logoColor=F0B429" alt="Oxlint" />
+  <img src="https://img.shields.io/badge/ESLint-1a1b26?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-1a1b26?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Husky-1a1b26?style=flat-square&logo=husky&logoColor=FFFFFF" alt="Husky" />
+  <img src="https://img.shields.io/badge/lint--staged-1a1b26?style=flat-square&logo=npm&logoColor=CB3837" alt="lint-staged" />
+  <img src="https://img.shields.io/badge/Jest-1a1b26?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
+  <img src="https://img.shields.io/badge/Testing%20Library-1a1b26?style=flat-square&logo=testinglibrary&logoColor=E33332" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1a1b26?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</p>
+
+### 🎨 Design & AI Coding Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-1a1b26?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/npm-1a1b26?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" />
-  <img src="https://img.shields.io/badge/ESLint-1a1b26?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-1a1b26?style=flat-square&logo=prettier&logoColor=F7B93E" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Oxlint-1a1b26?style=flat-square&logo=oxlint&logoColor=F0B429" alt="Oxlint" />
   <img src="https://img.shields.io/badge/Gemini-1a1b26?style=flat-square&logo=googlegemini&logoColor=8E75C2" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-1a1b26?style=flat-square&logo=claude&logoColor=D97756" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-1a1b26?style=flat-square&logo=openai&logoColor=10A37F" alt="OpenAI Codex" />
@@ -805,11 +830,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 28일)
-- 🔨 [`K-bangknow/main`](https://github.com/xoxoworld/K-bangknow/tree/main)에 커밋 푸시 (2026년 7월 28일)
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 30일)
+- 🔨 [`blumjeffrey/main`](https://github.com/xoxoworld/blumjeffrey/tree/main)에 커밋 푸시 (2026년 7월 29일)
+- 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 7월 23일)
 - 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 (2026년 7월 18일)
 - 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 (2026년 7월 8일)
-- 🔨 [`NODEBOX/main`](https://github.com/xoxoworld/NODEBOX/tree/main)에 커밋 푸시 (2026년 7월 4일)
 
 <!-- END_SECTION:activity -->
 
@@ -844,4 +869,4 @@
     <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
-<!-- Last updated: 2026-07-27 -->
+<!-- Last updated: 2026-07-31 -->
