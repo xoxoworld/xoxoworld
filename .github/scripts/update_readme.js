@@ -4,17 +4,16 @@ const path = require("path");
 async function main() {
   try {
     const username = "xoxoworld";
-    // A Personal Access Token (PAT) is required to fetch private activity.
+    // A Personal Access Token (PAT) is optional but recommended to avoid rate limits and fetch private activity.
     const token = process.env.ACTIVITY_TOKEN || process.env.GITHUB_TOKEN;
-
-    if (!token) {
-      throw new Error("GitHub token not found. Please provide a token (e.g., ACTIVITY_TOKEN).");
-    }
 
     const headers = {
       "User-Agent": "xoxoworld-readme-updater",
-      Authorization: `token ${token}`,
     };
+    
+    if (token) {
+      headers["Authorization"] = `token ${token}`;
+    }
 
     const response = await fetch(`https://api.github.com/users/${username}/events`, { headers });
 

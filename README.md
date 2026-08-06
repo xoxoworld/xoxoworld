@@ -401,6 +401,20 @@
     <table border="0">
       <tr>
         <td align="center" valign="top" width="50%">
+          <a href="https://github.com/xoxoworld/EST_fe_13_3st_Finalproject">
+            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_3st_Finalproject&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_3st_Finalproject" />
+          </a>
+          <br/>
+          <span style="font-size: 12px; color: #888;">3rd Team Project (Final) - AI Recipe & Cooking Community (React, Vite, MUI, Emotion)</span>
+          <br/>
+          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://est-fe-13-3st-finalproject.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_2st_project">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_2st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_2st_project" />
           </a>
@@ -414,6 +428,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_fe_13_1st_project">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_1st_project&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_1st_project" />
@@ -428,8 +444,6 @@
           </a>
           <br/><br/>
         </td>
-      </tr>
-      <tr>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/news--app-Next.js%20%2F%20JS%20%2F%20Tailwind-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=2dd4bf" alt="news-app" />
           <br/>
@@ -442,6 +456,8 @@
           </a>
           <br/><br/>
         </td>
+      </tr>
+      <tr>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/EST_shop">
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_shop&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_shop" />
@@ -455,6 +471,9 @@
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
           </a>
           <br/><br/>
+        </td>
+        <td align="center" valign="top" width="50%">
+          <!-- Empty for grid balance -->
         </td>
       </tr>
     </table>
@@ -830,11 +849,11 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 30일)
-- 🔨 [`blumjeffrey/main`](https://github.com/xoxoworld/blumjeffrey/tree/main)에 커밋 푸시 (2026년 7월 29일)
-- 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 7월 23일)
-- 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 (2026년 7월 18일)
-- 🔨 [`React-Basic-Review-Mission-7-/main`](https://github.com/xoxoworld/React-Basic-Review-Mission-7-/tree/main)에 커밋 푸시 (2026년 7월 8일)
+- 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 8월 5일)
+- 🔀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)에 PR [#2]() 오픈 (2026년 8월 3일)
+- 🔨 [`EST_fe_13_3st_Finalproject/sunghee`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/sunghee)에 커밋 푸시 (2026년 8월 3일)
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 7월 31일)
+- 🔨 [`Basic-Review-Mission-8/main`](https://github.com/xoxoworld/Basic-Review-Mission-8/tree/main)에 커밋 푸시 (2026년 7월 19일)
 
 <!-- END_SECTION:activity -->
 
