@@ -850,9 +850,8 @@
 <!-- START_SECTION:activity -->
 
 - 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 8월 19일)
-- 🔀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)에 PR [#83]() 오픈 (2026년 8월 16일)
-- 🔨 [`EST_fe_13_3st_Finalproject/sunghee`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/sunghee)에 커밋 푸시 (2026년 8월 16일)
-- 🔀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)에 PR [#82]() 오픈 (2026년 8월 16일)
+- 🔨 [`EST_fe_13_3st_Finalproject/sunghee`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/sunghee)에 커밋 푸시 (2026년 8월 19일)
+- 🔀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)에 PR [#99]() 오픈 (2026년 8월 19일)
 
 <!-- END_SECTION:activity -->
 
