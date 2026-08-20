@@ -857,12 +857,12 @@
 
 <!-- START_SECTION:activity -->
 
+- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 8월 20일)
 - 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 8월 20일)
-- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#112](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/112) 코드 리뷰 — *"Update README with project details and structure"* (2026년 8월 20일)
-- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#111](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/111) 코드 리뷰 — *"docs: README 팀원 소개 최신화"* (2026년 8월 20일)
-- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#110](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/110) 코드 리뷰 — *"docs: README 차트 및 링크 최신화"* (2026년 8월 20일)
-- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#109](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/109) 코드 리뷰 — *"fix: 난이도 필터링(초급) 시 레시피 작성 오류(0분 제한) 수정"* (2026년 8월 20일)
-- 🎉 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#99](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/99) 병합 (2026년 8월 19일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#112](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/112) 코드 리뷰 (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#111](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/111) 코드 리뷰 (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#110](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/110) 코드 리뷰 (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#109](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/109) 코드 리뷰 (2026년 8월 20일)
 
 <!-- END_SECTION:activity -->
 
