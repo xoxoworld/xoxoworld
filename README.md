@@ -405,7 +405,7 @@
             <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=EST_fe_13_3st_Finalproject&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="EST_fe_13_3st_Finalproject" />
           </a>
           <br/>
-          <span style="font-size: 12px; color: #888;">3rd Team Project (Final) - AI Recipe & Cooking Community (React, Vite, MUI, Emotion)</span>
+          <span style="font-size: 12px; color: #888;">3rd Team Project (Final) - '맛깔나는 식탁' AI 맞춤형 레시피 & 요리 커뮤니티 (React 19, Supabase, MUI, Emotion, Oxlint)</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
@@ -495,6 +495,10 @@
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
+          <a href="https://basic-review-mission-8.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
+          <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/React-Basic-Review-Mission-7-">
@@ -504,6 +508,10 @@
           <span style="font-size: 12px; color: #888;">React Basic Review Mission 7</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <br/><br/>
+          <a href="https://react-basic-review-mission-7-dusky.vercel.app">
+            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
+          </a>
           <br/><br/>
         </td>
       </tr>
@@ -849,9 +857,12 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 8월 19일)
-- 🔨 [`EST_fe_13_3st_Finalproject/sunghee`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/sunghee)에 커밋 푸시 (2026년 8월 19일)
-- 🔀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)에 PR [#99]() 오픈 (2026년 8월 19일)
+- 🔨 [`EST_fe_13_3st_Finalproject/main`](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/tree/main)에 커밋 푸시 (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#112](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/112) 코드 리뷰 — *"Update README with project details and structure"* (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#111](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/111) 코드 리뷰 — *"docs: README 팀원 소개 최신화"* (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#110](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/110) 코드 리뷰 — *"docs: README 차트 및 링크 최신화"* (2026년 8월 20일)
+- 👀 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#109](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/109) 코드 리뷰 — *"fix: 난이도 필터링(초급) 시 레시피 작성 오류(0분 제한) 수정"* (2026년 8월 20일)
+- 🎉 [**EST_fe_13_3st_Finalproject**](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject)의 PR [#99](https://github.com/xoxoworld/EST_fe_13_3st_Finalproject/pull/99) 병합 (2026년 8월 19일)
 
 <!-- END_SECTION:activity -->
 
@@ -886,4 +897,4 @@
     <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
-<!-- Last updated: 2026-07-31 -->
+<!-- Last updated: 2026-08-20 -->

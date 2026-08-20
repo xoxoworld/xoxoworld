@@ -26,7 +26,7 @@ async function main() {
     const seenActivities = new Set(); // to avoid duplicate consecutive messages
 
     for (const event of events) {
-      if (activityLines.length >= 5) break;
+      if (activityLines.length >= 6) break;
 
       const repoName = event.repo.name;
       const shortRepoName = repoName.split("/")[1];
@@ -43,8 +43,8 @@ async function main() {
         const branch = (event.payload.ref || "").replace("refs/heads/", "");
         if (!branch) continue;
 
-        // Skip if we already logged a push to this repo recently
-        const key = `push-${repoName}-${branch}`;
+        // Skip if we already logged a push to this repo & branch recently
+        const key = `push-${repoName}-${branch}-${eventTime}`;
         if (seenActivities.has(key)) continue;
         seenActivities.add(key);
 
@@ -61,20 +61,35 @@ async function main() {
         activityText = `🚀 새 저장소 [**${shortRepoName}**](${repoUrl}) 생성 (${eventTime})`;
       } else if (event.type === "PullRequestEvent" && event.payload.action === "opened") {
         const prNumber = event.payload.number;
-        const prUrl = event.payload.pull_request?.html_url || "";
-        activityText = `🔀 [**${shortRepoName}**](${repoUrl})에 PR [#${prNumber}](${prUrl}) 오픈 (${eventTime})`;
+        const prUrl = event.payload.pull_request?.html_url || `${repoUrl}/pull/${prNumber}`;
+        const prTitle = event.payload.pull_request?.title || "";
+        const titleSnippet = prTitle ? ` — *"${prTitle}"*` : "";
+        activityText = `🔀 [**${shortRepoName}**](${repoUrl})에 PR [#${prNumber}](${prUrl}) 오픈${titleSnippet} (${eventTime})`;
       } else if (
         event.type === "PullRequestEvent" &&
         event.payload.action === "closed" &&
         event.payload.pull_request?.merged
       ) {
         const prNumber = event.payload.number;
-        const prUrl = event.payload.pull_request?.html_url || "";
-        activityText = `🎉 [**${shortRepoName}**](${repoUrl})의 PR [#${prNumber}](${prUrl}) 병합 (${eventTime})`;
+        const prUrl = event.payload.pull_request?.html_url || `${repoUrl}/pull/${prNumber}`;
+        const prTitle = event.payload.pull_request?.title || "";
+        const titleSnippet = prTitle ? ` — *"${prTitle}"*` : "";
+        activityText = `🎉 [**${shortRepoName}**](${repoUrl})의 PR [#${prNumber}](${prUrl}) 병합${titleSnippet} (${eventTime})`;
+      } else if (event.type === "PullRequestReviewEvent") {
+        const prNumber = event.payload.pull_request?.number;
+        const prUrl = event.payload.pull_request?.html_url || `${repoUrl}/pull/${prNumber}`;
+        const prTitle = event.payload.pull_request?.title || "";
+        const titleSnippet = prTitle ? ` — *"${prTitle}"*` : "";
+        const key = `review-${repoName}-${prNumber}`;
+        if (seenActivities.has(key)) continue;
+        seenActivities.add(key);
+        activityText = `👀 [**${shortRepoName}**](${repoUrl})의 PR [#${prNumber}](${prUrl}) 코드 리뷰${titleSnippet} (${eventTime})`;
       } else if (event.type === "IssuesEvent" && event.payload.action === "opened") {
         const issueNumber = event.payload.issue?.number;
-        const issueUrl = event.payload.issue?.html_url || "";
-        activityText = `🗣️ [**${shortRepoName}**](${repoUrl})에 이슈 [#${issueNumber}](${issueUrl}) 생성 (${eventTime})`;
+        const issueUrl = event.payload.issue?.html_url || `${repoUrl}/issues/${issueNumber}`;
+        const issueTitle = event.payload.issue?.title || "";
+        const titleSnippet = issueTitle ? ` — *"${issueTitle}"*` : "";
+        activityText = `🗣️ [**${shortRepoName}**](${repoUrl})에 이슈 [#${issueNumber}](${issueUrl}) 생성${titleSnippet} (${eventTime})`;
       }
 
       if (activityText) {
