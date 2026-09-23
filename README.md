@@ -857,7 +857,7 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`EST_fe_13_1st_project_private/main`](https://github.com/xoxoworld/EST_fe_13_1st_project_private/tree/main)에 커밋 푸시 (2026년 8월 24일)
+- 💤 최근 공개 활동이 없습니다.
 
 <!-- END_SECTION:activity -->
 
