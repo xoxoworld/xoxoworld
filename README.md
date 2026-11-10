@@ -116,7 +116,6 @@
 
 ---
 
-<!--
 ## 🚀 Projects & Showcases
 
 <details>
@@ -295,10 +294,6 @@
           <span style="font-size: 12px; color: #888;">현대자동차그룹 메인 추천 기능 클론 코딩</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
-          <br/><br/>
-          <a href="https://hyundai-khaki.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -742,10 +737,6 @@
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
-          <a href="https://xoxoworld.github.io/web_portfolio_ex/">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
         </td>
       </tr>
       <tr>
@@ -832,10 +823,6 @@
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
-          <a href="https://github-readme-stats.vercel.app">
-            <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
-          </a>
-          <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
           <a href="https://github.com/xoxoworld/Pull-Shark-">
@@ -851,7 +838,6 @@
     </table>
   </div>
 </details>
--->
 
 ## ⚡ Recent Activity
 
