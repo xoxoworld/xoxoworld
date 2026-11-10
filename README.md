@@ -287,13 +287,11 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/HYUNDAI">
-            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=HYUNDAI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="HYUNDAI" />
-          </a>
+          <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=HYUNDAI&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="HYUNDAI" />
           <br/>
           <span style="font-size: 12px; color: #888;">현대자동차그룹 메인 추천 기능 클론 코딩</span>
           <br/>
-          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -343,13 +341,11 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/kakaobank_">
-            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
-          </a>
+          <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=kakaobank_&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="kakaobank_" />
           <br/>
           <span style="font-size: 12px; color: #888;">카카오뱅크 공식 홈페이지 메인 페이지 클론 코딩 (스크롤 감지 & Swiper)</span>
           <br/>
-          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
@@ -363,13 +359,11 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/slowpage">
-            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
-          </a>
+          <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=slowpage&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="slowpage" />
           <br/>
           <span style="font-size: 12px; color: #888;">책과 함께 여유로운 시간을 보내는 공간, 슬로우 페이지 (GSAP 가로 스크롤 & 3D 북 플립)</span>
           <br/>
-          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
           <a href="http://s1.slowpage.shop">
             <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Demo" />
@@ -729,13 +723,11 @@
           <br/><br/>
         </td>
         <td align="center" valign="top" width="50%">
-          <a href="https://github.com/xoxoworld/web_portfolio_ex">
-            <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
-          </a>
+          <img src="https://xoxo-github-stats.vercel.app/api/pin/?username=xoxoworld&repo=web_portfolio_ex&title_color=2dd4bf&icon_color=2dd4bf&text_color=a9b1d6&bg_color=1a1b26&hide_border=true&show_owner=false" alt="web_portfolio_ex" />
           <br/>
           <span style="font-size: 12px; color: #888;">React 19 + Tailwind v4 3대 브랜드(ESSENCE LAB, ROM&ND, SERENIQ) 포트폴리오</span>
           <br/>
-          <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
           <br/><br/>
         </td>
       </tr>
