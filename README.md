@@ -323,12 +323,7 @@
       </tr>
       <tr>
         <td align="center" valign="top" width="50%">
-          <img src="https://img.shields.io/badge/RogueQuest-Three.js%20%2F%20WebGL%20%2F%20raylib-1a1b26?style=for-the-badge&logo=three.js&logoColor=2dd4bf" alt="RogueQuest" />
-          <br/>
-          <span style="font-size: 12px; color: #888;">하이브리드 3D 로그라이크 RPG 게임 (Three.js WebGL & C 언어 Raylib 네이티브 에디션)</span>
-          <br/>
-          <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
-          <br/><br/>
+          <!-- Empty for grid balance -->
         </td>
         <td align="center" valign="top" width="50%">
           <img src="https://img.shields.io/badge/Spotify%20Web%20Player-React%2019%20%2F%20TS%20%2F%20Vite-1a1b26?style=for-the-badge&logo=react&logoColor=2dd4bf" alt="Spotify Web Player" />
@@ -870,4 +865,4 @@
     <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
 </p>
-<!-- Last updated: 2026-08-20 -->
+<!-- Last updated: 2026-11-11 -->
