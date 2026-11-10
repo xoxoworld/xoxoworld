@@ -826,7 +826,7 @@
 
 <!-- START_SECTION:activity -->
 
-- 💤 최근 공개 활동이 없습니다.
+- 🔀 [**xoxoworld**](https://github.com/xoxoworld/xoxoworld)에 PR [#7](https://github.com/xoxoworld/xoxoworld/pull/7) 오픈 (2026년 11월 10일)
 
 <!-- END_SECTION:activity -->
 
