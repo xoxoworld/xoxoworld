@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://music.youtube.com/watch?v=1OZDaRhHHyM">
-    <img src="./assets/vinyl-spin-v6.gif" alt="Now spinning: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence" width="280" />
+    <img src="./assets/vinyl-spin-v8.gif" alt="Now spinning: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence" width="280" />
   </a>
   <p><i>🎵 Ryuichi Sakamoto — Merry Christmas Mr. Lawrence</i></p>
 </div>
