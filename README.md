@@ -19,6 +19,16 @@
 
 ---
 
+## 🌤️ 오늘의 날씨
+
+<div align="center">
+  <!-- START_SECTION:weather -->
+  <img src="./assets/weather.svg?v=2026111113" alt="오늘의 날씨 — 서울 (매일 자동 갱신)" width="840" />
+  <!-- END_SECTION:weather -->
+</div>
+
+---
+
 ## 🛠️ Technology Orbit
 
 ### 🌐 Core Frontend & Frameworks
