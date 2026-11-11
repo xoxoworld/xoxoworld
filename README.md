@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://music.youtube.com/watch?v=1OZDaRhHHyM">
-    <img src="./assets/now-playing-banner-v5.gif" alt="Playlist player card - Merry Christmas Mr. Lawrence" width="760" />
+    <img src="./assets/now-playing-banner-v6.gif" alt="Playlist player card - Merry Christmas Mr. Lawrence" width="760" />
   </a>
   <p><i>🎵 Ryuichi Sakamoto — Merry Christmas Mr. Lawrence</i></p>
 </div>
