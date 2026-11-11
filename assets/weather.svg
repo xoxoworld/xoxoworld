@@ -42,9 +42,9 @@
   <circle cx="96" cy="128" r="62" fill="url(#glow)"/>
   <text class="ui" x="132" y="102" font-size="13" letter-spacing="1" fill="#565f89">지금</text>
   <text x="40" y="160" font-size="66">🌤️</text>
-  <text class="ui" x="132" y="164" font-size="56" font-weight="800" fill="#ffffff">13°</text>
+  <text class="ui" x="132" y="164" font-size="56" font-weight="800" fill="#ffffff">14°</text>
   <text class="ui" x="252" y="150" font-size="22" font-weight="600" fill="#c0caf5">대체로 맑음</text>
-  <text class="ui" x="252" y="176" font-size="13" fill="#7aa2f7">체감 12° · 습도 67% · 바람 3.6 m/s</text>
+  <text class="ui" x="252" y="176" font-size="13" fill="#7aa2f7">체감 12° · 습도 66% · 바람 4.3 m/s</text>
 
   <!-- stats -->
   <line x1="466" y1="86" x2="466" y2="176" stroke="#2ac3de" stroke-opacity="0.18"/>
