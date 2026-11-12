@@ -32,6 +32,10 @@
   <a href="https://github.com/xoxoworld">
     <img src="https://img.shields.io/badge/GitHub-xoxoworld-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://app.notion.com/p/oreumi/33bebaa8982b8014b72dde7249f8a910?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" />
+  </a>
 </div>
 
 ---
@@ -976,6 +980,9 @@
   </a>
   <a href="https://github.com/xoxoworld">
     <img src="https://img.shields.io/badge/GitHub-xoxoworld-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="https://app.notion.com/p/oreumi/33bebaa8982b8014b72dde7249f8a910?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-1a1b26?style=flat-square&logo=notion&logoColor=FFFFFF" alt="Notion Portfolio" />
   </a>
 </p>
 <!-- Last updated: 2026-11-12 -->
