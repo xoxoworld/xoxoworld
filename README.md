@@ -17,8 +17,6 @@
 
 디자인 시안(Figma)의 정교한 디테일을 왜곡 없이 모던한 마크업과 코드(React 19, Next.js, Tailwind v4, SCSS)로 옮겨내는 것을 좋아합니다. 단순히 작동하는 페이지를 만드는 것을 넘어, 사용자가 직접 만지고 느끼는 프리미엄 디지털 경험과 매끄러운 웹 애니메이션을 만드는 데 집중하고 있습니다.
 
-<br/>
-
 #### 📌 Key Highlights
 - **ESTsoft 프론트엔드 13기 수료**: 1차 EST CAMP, 2차 ROUNZ, 파이널 AI 맞춤형 레시피 커뮤니티(React 19, Supabase) 등 3차례 팀 프로젝트 완수
 - **AI-Native Engineering**: Gemini & 최신 LLM 툴체인을 적극 활용한 신속한 프로토타이핑 및 코드 품질 고도화
