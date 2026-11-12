@@ -161,7 +161,7 @@
     <tr>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/xoxoworld/EST_fe_13_3st_Finalproject">
-          <b>🍽️ 맛깔나는 식탁</b>
+          <b>맛깔나는 식탁</b>
         </a>
         <br/>
         <span style="font-size: 12px; color: #888;">AI 맞춤형 레시피 &amp; 요리 커뮤니티</span>
@@ -180,7 +180,7 @@
         <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
       </td>
       <td align="center" valign="top" width="33%">
-        <b>💙 TOSS</b>
+        <b>TOSS</b>
         <br/>
         <span style="font-size: 12px; color: #888;">토스 메인 &amp; 금융 상품 소개 페이지 리플리카</span>
         <br/><br/>
@@ -196,7 +196,7 @@
         <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
       </td>
       <td align="center" valign="top" width="33%">
-        <b>📖 slowpage</b>
+        <b>slowpage</b>
         <br/>
         <span style="font-size: 12px; color: #888;">감성 북 아카이브 — GSAP 가로 스크롤 &amp; 3D 북 플립</span>
         <br/><br/>
