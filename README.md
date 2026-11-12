@@ -931,7 +931,7 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **6개 커밋** 푸시 — *"style: Reduce vertical spacing in About Me section"* · *"docs: Include all three ESTsoft team projects in About Me highl…"* · *"docs: Update About Me with key highlights"* (2026년 11월 12일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **12개 커밋** 푸시 — *"chore: Update today's weather card [skip ci]"* · *"fix: Update Notion portfolio link to public web URL"* · *"feat: Add Notion portfolio badge to Contact & Channels"* (2026년 11월 12일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **34개 커밋** 푸시 — *"style: slightly smaller cover"* · *"style: larger cover matched to vinyl"* · *"style: remove white cover border"* (2026년 11월 11일)
 - 🔀 [**xoxoworld**](https://github.com/xoxoworld/xoxoworld)에 PR [#7](https://github.com/xoxoworld/xoxoworld/pull/7) 오픈 (2026년 11월 11일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **1개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 10월 31일)
