@@ -20,7 +20,7 @@
 <br/>
 
 #### 📌 Key Highlights
-- **ESTsoft 프론트엔드 13기 수료**: AI 맞춤형 레시피 & 요리 커뮤니티 파이널 프로젝트 완수 (React 19, Supabase)
+- **ESTsoft 프론트엔드 13기 수료**: 1차 EST CAMP, 2차 ROUNZ, 파이널 AI 맞춤형 레시피 커뮤니티(React 19, Supabase) 등 3차례 팀 프로젝트 완수
 - **AI-Native Engineering**: Gemini & 최신 LLM 툴체인을 적극 활용한 신속한 프로토타이핑 및 코드 품질 고도화
 
 ---
