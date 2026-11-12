@@ -21,6 +21,19 @@
 - **ESTsoft 프론트엔드 13기 수료**: 1차 EST CAMP, 2차 ROUNZ, 파이널 AI 맞춤형 레시피 커뮤니티(React 19, Supabase) 등 3차례 팀 프로젝트 완수
 - **AI-Native Engineering**: Gemini & 최신 LLM 툴체인을 적극 활용한 신속한 프로토타이핑 및 코드 품질 고도화
 
+<br/>
+
+<!-- Contact & Channel bar -->
+<div align="center">
+  <a href="mailto:sung021125@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sung021125%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/xoxoworld">
+    <img src="https://img.shields.io/badge/GitHub-xoxoworld-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
 ---
 
 ## 🌤️ 오늘의 날씨
@@ -138,6 +151,69 @@
   <img src="https://img.shields.io/badge/raylib-1a1b26?style=flat-square&logo=raylib&logoColor=E0A92C" alt="raylib" />
   <img src="https://img.shields.io/badge/PySide6-1a1b26?style=flat-square&logo=qt&logoColor=41CD52" alt="PySide6" />
 </p>
+
+---
+
+## ⭐ Featured Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <a href="https://github.com/xoxoworld/EST_fe_13_3st_Finalproject">
+          <b>🍽️ 맛깔나는 식탁</b>
+        </a>
+        <br/>
+        <span style="font-size: 12px; color: #888;">AI 맞춤형 레시피 &amp; 요리 커뮤니티</span>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/React%2019-1a1b26?style=flat-square&logo=react&logoColor=2dd4bf" alt="React 19" />
+        <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=2dd4bf" alt="Supabase" />
+        <br/>
+        <img src="https://img.shields.io/badge/MUI-1a1b26?style=flat-square&logo=mui&logoColor=2dd4bf" alt="MUI" />
+        <img src="https://img.shields.io/badge/Emotion-1a1b26?style=flat-square&logo=emotion&logoColor=2dd4bf" alt="Emotion" />
+        <img src="https://img.shields.io/badge/Oxlint-1a1b26?style=flat-square&logo=oxlint&logoColor=2dd4bf" alt="Oxlint" />
+        <br/><br/>
+        <a href="https://est-fe-13-3st-finalproject.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Live Demo" />
+        </a>
+        <br/>
+        <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b>💙 TOSS</b>
+        <br/>
+        <span style="font-size: 12px; color: #888;">토스 메인 &amp; 금융 상품 소개 페이지 리플리카</span>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=nextdotjs&logoColor=2dd4bf" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=flat-square&logo=typescript&logoColor=2dd4bf" alt="TypeScript" />
+        <br/>
+        <img src="https://img.shields.io/badge/Tailwind-1a1b26?style=flat-square&logo=tailwindcss&logoColor=2dd4bf" alt="Tailwind CSS" />
+        <br/><br/>
+        <a href="https://toss-flax.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Live Demo" />
+        </a>
+        <br/>
+        <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b>📖 slowpage</b>
+        <br/>
+        <span style="font-size: 12px; color: #888;">감성 북 아카이브 — GSAP 가로 스크롤 &amp; 3D 북 플립</span>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/GSAP-1a1b26?style=flat-square&logo=greensock&logoColor=2dd4bf" alt="GSAP" />
+        <img src="https://img.shields.io/badge/SCSS-1a1b26?style=flat-square&logo=sass&logoColor=2dd4bf" alt="SCSS" />
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript" />
+        <br/><br/>
+        <a href="http://s1.slowpage.shop">
+          <img src="https://img.shields.io/badge/Live_Demo-🚀-2dd4bf?style=flat-square" alt="Live Demo" />
+        </a>
+        <br/>
+        <span style="font-size: 11px; color: #e15554;">🔒 Private Repo</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -851,11 +927,22 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld/main`](https://github.com/xoxoworld/xoxoworld/tree/main)에 커밋 푸시 (2026년 11월 10일)
-- 🔨 [`xoxoworld/preview-readme-layout`](https://github.com/xoxoworld/xoxoworld/tree/preview-readme-layout)에 커밋 푸시 (2026년 11월 10일)
-- 🔀 [**xoxoworld**](https://github.com/xoxoworld/xoxoworld)에 PR [#7](https://github.com/xoxoworld/xoxoworld/pull/7) 오픈 (2026년 11월 10일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **6개 커밋** 푸시 — *"style: Reduce vertical spacing in About Me section"* · *"docs: Include all three ESTsoft team projects in About Me highl…"* · *"docs: Update About Me with key highlights"* (2026년 11월 12일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **34개 커밋** 푸시 — *"style: slightly smaller cover"* · *"style: larger cover matched to vinyl"* · *"style: remove white cover border"* (2026년 11월 11일)
+- 🔀 [**xoxoworld**](https://github.com/xoxoworld/xoxoworld)에 PR [#7](https://github.com/xoxoworld/xoxoworld/pull/7) 오픈 (2026년 11월 11일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **1개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 10월 31일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **2개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 10월 30일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **2개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 10월 29일)
 
 <!-- END_SECTION:activity -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="./assets/snake.svg?v=2026111216" alt="GitHub Contribution Snake" width="840" />
+</div>
+
+---
 
 ## 📊 GitHub Insights
 
@@ -886,6 +973,9 @@
 <p align="left">
   <a href="mailto:sung021125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1a1b26?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+  <a href="https://github.com/xoxoworld">
+    <img src="https://img.shields.io/badge/GitHub-xoxoworld-1a1b26?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
   </a>
 </p>
 <!-- Last updated: 2026-11-11 -->
