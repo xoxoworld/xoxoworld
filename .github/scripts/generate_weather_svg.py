@@ -71,18 +71,74 @@ WEEKDAYS = ["월", "화", "수", "목", "금", "토", "일"]
 
 def fetch_weather() -> dict:
     last_error: Exception | None = None
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             request = urllib.request.Request(
                 API_URL, headers={"User-Agent": "xoxoworld-weather-card"}
             )
-            with urllib.request.urlopen(request, timeout=20) as response:
+            with urllib.request.urlopen(request, timeout=3) as response:
                 return json.loads(response.read().decode("utf-8"))
         except Exception as error:  # network hiccup, 5xx, truncated body
             last_error = error
-            print(f"attempt {attempt + 1} failed: {error}", file=sys.stderr)
-            time.sleep(3 * (attempt + 1))
-    raise SystemExit(f"could not fetch Open-Meteo data: {last_error}")
+            print(f"Open-Meteo attempt {attempt + 1} failed: {error}", file=sys.stderr)
+            time.sleep(1)
+
+    # Fallback to local weather command if available
+    try:
+        import subprocess
+        res = subprocess.run(
+            ["weather", f"{LATITUDE}, {LONGITUDE}"],
+            capture_output=True,
+            text=True,
+            timeout=10,
+            check=True,
+        )
+        data = json.loads(res.stdout)["data"]
+        now_data = data.get("now", {})
+        today_data = data.get("days", [{}])[0]
+
+        cond = (now_data.get("condition") or today_data.get("condition") or "").lower()
+        if "clear" in cond:
+            code = 0 if "mostly" not in cond else 1
+        elif "partly" in cond:
+            code = 2
+        elif "cloud" in cond:
+            code = 3
+        elif "fog" in cond or "mist" in cond:
+            code = 45
+        elif "drizzle" in cond:
+            code = 53
+        elif "rain" in cond or "shower" in cond:
+            code = 63
+        elif "snow" in cond:
+            code = 73
+        elif "thunder" in cond or "storm" in cond:
+            code = 95
+        else:
+            code = 3
+
+        wind_kmh = now_data.get("wind_kmh", 0)
+        wind_ms = round(wind_kmh / 3.6, 1)
+
+        return {
+            "daily": {
+                "weather_code": [code],
+                "temperature_2m_max": [today_data.get("high_c", 15)],
+                "temperature_2m_min": [today_data.get("low_c", 5)],
+                "precipitation_probability_max": [today_data.get("precipitation_chance", 0)],
+            },
+            "current": {
+                "temperature_2m": now_data.get("temperature_c", 10),
+                "apparent_temperature": now_data.get("feels_like_c", 10),
+                "relative_humidity_2m": now_data.get("humidity", 50),
+                "wind_speed_10m": wind_ms,
+                "is_day": 1 if 7 <= datetime.now(TIMEZONE).hour < 18 else 0,
+            },
+        }
+    except Exception as fallback_error:
+        print(f"Fallback to weather CLI failed: {fallback_error}", file=sys.stderr)
+
+    raise SystemExit(f"could not fetch weather data: {last_error}")
 
 
 def fmt_temp(value: float) -> str:
