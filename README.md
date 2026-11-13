@@ -931,7 +931,7 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **1개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 11월 13일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **4개 커밋** 푸시 — *"docs: Update 3D contribution graph"* · *"chore: Update today's weather card [skip ci]"* · *"docs: Update recent activity [skip ci]"* (2026년 11월 13일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **13개 커밋** 푸시 — *"docs: Update recent activity [skip ci]"* · *"chore: Update today's weather card [skip ci]"* · *"fix: Update Notion portfolio link to public web URL"* (2026년 11월 12일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **34개 커밋** 푸시 — *"style: slightly smaller cover"* · *"style: larger cover matched to vinyl"* · *"style: remove white cover border"* (2026년 11월 11일)
 - 🔀 [**xoxoworld**](https://github.com/xoxoworld/xoxoworld)에 PR [#7](https://github.com/xoxoworld/xoxoworld/pull/7) 오픈 (2026년 11월 11일)
