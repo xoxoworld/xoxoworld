@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="232" viewBox="0 0 840 232" role="img" aria-label="오늘의 날씨 서울: 흐림, 최고 16° 최저 8°">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="232" viewBox="0 0 840 232" role="img" aria-label="오늘의 날씨 서울: 비, 최고 12° 최저 10°">
   <title>오늘의 날씨 — 서울</title>
-  <desc>2026년 11월 13일 서울 날씨: 흐림, 최고 16° / 최저 8°, 강수확률 0%</desc>
+  <desc>2026년 11월 14일 서울 날씨: 비, 최고 12° / 최저 10°, 강수확률 100%</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1a1b26"/>
@@ -35,25 +35,25 @@
   <!-- location + date -->
   <rect x="32" y="26" width="104" height="34" rx="17" fill="url(#pill)" stroke="#bb9af7" stroke-opacity="0.45"/>
   <text class="ui" x="48" y="48" font-size="15" font-weight="700" fill="#bb9af7">📍 서울</text>
-  <text class="ui" x="808" y="42" font-size="14" text-anchor="end" fill="#a9b1d6">2026. 11. 13. (금)</text>
+  <text class="ui" x="808" y="42" font-size="14" text-anchor="end" fill="#a9b1d6">2026. 11. 14. (토)</text>
   <text class="ui" x="808" y="60" font-size="12" text-anchor="end" fill="#565f89">오늘의 날씨 · Today</text>
 
   <!-- current -->
   <circle cx="96" cy="128" r="62" fill="url(#glow)"/>
   <text class="ui" x="132" y="102" font-size="13" letter-spacing="1" fill="#565f89">지금</text>
-  <text x="40" y="160" font-size="66">☁️</text>
-  <text class="ui" x="132" y="164" font-size="56" font-weight="800" fill="#ffffff">14°</text>
-  <text class="ui" x="252" y="150" font-size="22" font-weight="600" fill="#c0caf5">흐림</text>
-  <text class="ui" x="252" y="176" font-size="13" fill="#7aa2f7">체감 14° · 습도 74% · 바람 0.6 m/s</text>
+  <text x="40" y="160" font-size="66">🌧️</text>
+  <text class="ui" x="132" y="164" font-size="56" font-weight="800" fill="#ffffff">10°</text>
+  <text class="ui" x="252" y="150" font-size="22" font-weight="600" fill="#c0caf5">비</text>
+  <text class="ui" x="252" y="176" font-size="13" fill="#7aa2f7">체감 10° · 습도 90% · 바람 1.1 m/s</text>
 
   <!-- stats -->
   <line x1="466" y1="86" x2="466" y2="176" stroke="#2ac3de" stroke-opacity="0.18"/>
   <text class="ui" x="500" y="104" font-size="12" fill="#565f89">최고</text>
-  <text class="ui" x="500" y="140" font-size="28" font-weight="700" fill="#ff9e64">16°</text>
+  <text class="ui" x="500" y="140" font-size="28" font-weight="700" fill="#ff9e64">12°</text>
   <text class="ui" x="620" y="104" font-size="12" fill="#565f89">최저</text>
-  <text class="ui" x="620" y="140" font-size="28" font-weight="700" fill="#7aa2f7">8°</text>
+  <text class="ui" x="620" y="140" font-size="28" font-weight="700" fill="#7aa2f7">10°</text>
   <text class="ui" x="720" y="104" font-size="12" fill="#565f89">강수확률</text>
-  <text class="ui" x="720" y="140" font-size="28" font-weight="700" fill="#7dcfff">0%</text>
+  <text class="ui" x="720" y="140" font-size="28" font-weight="700" fill="#7dcfff">100%</text>
 
   <!-- footer -->
   <line x1="32" y1="192" x2="808" y2="192" stroke="#2ac3de" stroke-opacity="0.15"/>

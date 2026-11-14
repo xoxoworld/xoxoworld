@@ -44,7 +44,7 @@
 
 <div align="center">
   <!-- START_SECTION:weather -->
-  <img src="./assets/weather.svg?v=2026111318" alt="오늘의 날씨 — 서울 (매일 자동 갱신)" width="840" />
+  <img src="./assets/weather.svg?v=2026111409" alt="오늘의 날씨 — 서울 (매일 자동 갱신)" width="840" />
   <!-- END_SECTION:weather -->
 </div>
 
