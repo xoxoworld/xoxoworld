@@ -165,7 +165,7 @@
     <tr>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/xoxoworld/EST_fe_13_3st_Finalproject">
-          <b>맛깔나는 식탁</b>
+          <깃 깔나는 레시피</b>
         </a>
         <br/>
         <span style="font-size: 12px; color: #888;">AI 맞춤형 레시피 &amp; 요리 커뮤니티</span>
