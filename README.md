@@ -494,7 +494,7 @@
             <b>EST_fe_13_3st_Finalproject</b>
           </a>
           <br/>
-          <span style="font-size: 12px; color: #888;">3rd Team Project (Final) - '맛깔나는 식탁' AI 맞춤형 레시피 & 요리 커뮤니티 (React 19, Supabase, MUI, Emotion, Oxlint)</span>
+          <span style="font-size: 12px; color: #888;">3rd Team Project (Final) - '깃 깔나는 레시피' AI 맞춤형 레시피 & 요리 커뮤니티 (React 19, Supabase, MUI, Emotion, Oxlint)</span>
           <br/>
           <span style="font-size: 11px; color: #2e7d32;">🔓 Public Repo</span>
           <br/><br/>
