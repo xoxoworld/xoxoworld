@@ -931,7 +931,7 @@
 
 <!-- START_SECTION:activity -->
 
-- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **1개 커밋** 푸시 — *"docs: Update 3D contribution graph"* (2026년 11월 28일)
+- 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **4개 커밋** 푸시 — *"docs: Update 3D contribution graph"* · *"chore: Update today's weather card [skip ci]"* · *"docs: Update recent activity [skip ci]"* (2026년 11월 28일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **4개 커밋** 푸시 — *"docs: Update recent activity [skip ci]"* · *"docs: Update 3D contribution graph"* (2026년 11월 27일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **6개 커밋** 푸시 — *"chore: Update today's weather card [skip ci]"* · *"docs: Update recent activity [skip ci]"* · *"docs: Update 3D contribution graph"* (2026년 11월 26일)
 - 🔨 [`xoxoworld`](https://github.com/xoxoworld/xoxoworld/commits)에 **6개 커밋** 푸시 — *"chore: Update today's weather card [skip ci]"* · *"docs: Update recent activity [skip ci]"* · *"docs: Update 3D contribution graph"* (2026년 11월 25일)
